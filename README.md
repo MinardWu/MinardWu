@@ -19,43 +19,21 @@ Hello, I'm Minard Wu, a developer based in ShangHai China.
 <br/>
 
 <div align="center">
-<img height="148" src="https://github-readme-stats.vercel.app/api?username=minardwu&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+<img height="148" src="https://github-readme-stats.vercel.app/api?username=minardwu&show_icons=true&theme=radical&title_color=151515&text_color=151515&icon_color=90774f&bg_color=fff"/>
 
-<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minardwu&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minardwu&layout=compact&title_color=151515&text_color=151515&icon_color=90774f&bg_color=fff"/>
 </div>
 
 <br/>
 
 ![][split]
 
-### 👀 Media Info
-
-<details>
-  <summary><kbd>Click here to expand</kbd> ↩️</summary>
-  <br>
-  <div align="center">
-
-  <!-- ![Metrics](/assets/github_info.svg)
-  ![Metrics](/assets/steam_info.svg) -->
+<div align="center">
   <img width="390" alt="github info" src="https://raw.githubusercontent.com/MinardWu/MinardWu/main/assets/github_info.svg">
-  <img width="16"/>
   <img width="390" alt="steam info" src="https://raw.githubusercontent.com/MinardWu/MinardWu/main/assets/steam_info.svg">
-  </div>
+</div>
 
-</details>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2575 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.71 % 
-🌆 Daytime                5447 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.34 % 
-🌃 Evening                5666 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.76 % 
-🌙 Night                  1726 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.20 % 
-```
-<!--END_SECTION:waka-->
-
-<!-- SHIELD GROUP -->
+<!-- split -->
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 
