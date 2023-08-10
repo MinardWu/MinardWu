@@ -75,9 +75,10 @@ Hello, I'm Minard Wu, a developer based in ShangHai China.
 
 [website-shield]: https://img.shields.io/website?down_message=offline&label=minardwu.com&up_message=online&url=https%3A%2F%2Fminardwu.com&style=flat-square
 [website-url]: https://minardwu.com
+[follow-shield]: https://img.shields.io/github/followers/minardwu?label=Follow&style=social
+[follow-url]: https://github.com/minardwu
+
 [qq-shield]: https://img.shields.io/badge/-@40073838-007AFF?style=flat-square&logoColor=white&logo=tencentqq
 [qq-url]: http://wpa.qq.com/msgrd?v=3&uin=40073838&site=qq&menu=yes
 [wechat-shield]: https://img.shields.io/badge/-@canisminor-00C25F?style=flat-square&logoColor=white&logo=wechat
 [wechat-url]: https://canisminor.cc/img/qrcode.png
-[follow-shield]: https://img.shields.io/github/followers/minardwu?label=Follow&style=social
-[follow-url]: https://github.com/minardwu
