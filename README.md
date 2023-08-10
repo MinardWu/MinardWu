@@ -23,7 +23,7 @@ Hello, I'm Minard Wu, a developer based in ShangHai China.
 
 <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minardwu&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
 
-<img height="148" src="https://steam-stat.vercel.app/api?profileName=CanisMinor"/>
+<img height="148" src="https://steam-stat.vercel.app/api?profileName=86上山了"/>
 </div>
 
 <br/>
@@ -34,17 +34,15 @@ Hello, I'm Minard Wu, a developer based in ShangHai China.
 
 <details>
   <summary><kbd>Click here to expand</kbd> ↩️</summary>
-<br>
-<div align="center">
+  <br>
+  <div align="center">
 
-![Metrics](/github-metrics.svg)
-![Metrics](/assets/metrics.svg)
-
-<!-- <img width="390" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
-<img width="16"/>
-<img width="390" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg"> -->
-
-</div>
+  <!-- ![Metrics](/assets/github_info.svg)
+  ![Metrics](/assets/steam_info.svg) -->
+  <img width="390" alt="github info" src="https://raw.githubusercontent.com/MinardWu/MinardWu/main/assets/github_info.svg">
+  <img width="16"/>
+  <img width="390" alt="steam info" src="https://raw.githubusercontent.com/MinardWu/MinardWu/main/assets/steam_info.svg">
+  </div>
 
 </details>
 

@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics.svg
+          filename: assets/github_info.svg
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, achievements
@@ -22,3 +22,12 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           token: ${{ secrets.METRICS_TOKEN }}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/steam_info.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198244222758"
