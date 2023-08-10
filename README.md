@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://github.com/canisminor1990/canisminor1990/blob/main/assets/banner.webp?raw=true)
+<!-- ![](https://github.com/canisminor1990/canisminor1990/blob/main/assets/banner.webp?raw=true) -->
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/minardwu">Minard</a></h1>
 
