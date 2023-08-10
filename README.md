@@ -38,10 +38,11 @@ Hello, I'm Minard Wu, a developer based in ShangHai China.
 <div align="center">
 
 ![Metrics](/github-metrics.svg)
+![Metrics](/assets/metrics.svg)
 
-<img width="390" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
+<!-- <img width="390" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
 <img width="16"/>
-<img width="390" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg">
+<img width="390" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg"> -->
 
 </div>
 

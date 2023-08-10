@@ -14,4 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: assets/metrics.svg
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, achievements
+          plugin_isocalendar: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           token: ${{ secrets.METRICS_TOKEN }}
