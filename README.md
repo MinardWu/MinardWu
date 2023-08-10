@@ -18,10 +18,10 @@ Hello, I'm Minard Wu, a developer based in ShangHai China.
 
 <br/>
 
-<div align="center">
+<div align="center" style="flex-direction:row;display:flex;justify-content:center">
 <!-- <img height="148" src="https://github-readme-stats.vercel.app/api?username=minardwu&show_icons=true&theme=radical&title_color=151515&text_color=151515&icon_color=90774f&bg_color=fff"/> -->
 
-<img height="148" src="https://github-readme-stats.vercel.app/api?username=minardwu&show_icons=true&theme=gradient&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,e56346,944e90"/>
+<img height="148" style="margin-right:8" src="https://github-readme-stats.vercel.app/api?username=minardwu&show_icons=true&theme=gradient&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,e56346,944e90"/>
 
 <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minardwu&layout=compact&title_color=151515&text_color=151515&icon_color=90774f&bg_color=fff"/>
 </div>
