@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/minardwu">Minard</a></h1>
 
-Hello, I'm Minard Wu, a developer based in ShangHai China.
+Hello, I'm Minard, a developer based in ShangHai China.
 
 ![][lang-java]
 ![][lang-kotlin]
