@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            190 hours played
+                            192 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 May 2024
+                                        Last played on 20 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 50 achievements unlocked
+                                            12 / 50 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwIDBAUGCP/EACwQAAICAgIBAgUCBwAAAAAAAAECAwQFERIhAAYxBxMUIkFRYSMzQnGSwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEAAwAAAAAAAAAAAAAAAAARARIh/9oADAMBAAIRAxEAPwASU60vrOerjsVj6keQrVdBI2IlyDr27bJ0X12EGugdbPjPpyvwvSQTkq1dJJ7EbAoQkalinfYYkBde/flNiBkK+VrPRDQXIn+bDLz4BGUFg/I9ADRPf6edGrkPQ3xUqUGydmpjfXLVmjmsVGVo+ZUptyDplPIEfkb1vyrACV6hBJlEsgoK9yCO3DGr7KBxsofz9pBH9teSMfdp4mnZks16skcsbRc5gdxsT06kf1DxXxLxOQ9E+oVw+Sx7tJFVh4Twjkk4VAvJT+mwffseYPK5C1ZqmE15BCOyXQ/brf8A338aIVhrUs2ZblPKwaOwSCSB/Kf8eVmLyNnGzPLVKcmXiecYcaBDDoj3BUHf7eEyStTx82Puc8ZeaWEu4UtyjLKVaKT2IOj7j9vM/FBSE0qjCwmH2XVibev8vDU1sHxtv1JHl6EWQ+qMs5tJ2Ulx1sgAhl33BIAFLr0pCEhdHYp526tt4LViWN1YxSxOx2NHRVgevLnN3BWzct2vJPUyHP56SV5Cvym/A3vf+/GcnkZfVuVuZPJT0YLy1jLNNJ/D+rkUaGkUaMjdb9gdEnXezPC//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcCBgEDBP/EACwQAAEEAQMCAwgDAAAAAAAAAAECAwQRBQASIQYxBxMiFBVBUVJhcaFCcvH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEBAAMAAAAAAAAAAAAAAAARARIhMf/aAAwDAQACEQMRAD8AUkOM71o/Gx+Jx8RvIRotBtonzcgtPK1WTyuuQgVwDVnWjp1gNzHWpBoxkOPyG1AoO1sElHPO4kBNd+ftoZg/Ph5H2sSF49yEn2tEhKCpQUlSQkp5F8kfHTthZ3AeMnUUOF7vYi9ROMLZXlI6VItRZc5WjsoWO12L4Pw1VgK2fj2F5VMi0CPLYblstpXZQlYvYf6mx+K10Y6bDxMOSuTHiuNutKa3vA22onhaSP5D96z4lYrI9FdRDEZPHrU61GZ2PtDch4JQE7kn5WCOeRqiZXISpMUsmO4GRyStB9Nf7303BEIM9C5shqY+75MpC2VLokNlRBSQn5WBY+V6snR+eleGeaj5KOlmTkg6qmudiWh5jaju+okmuDVWQbrRxUbHY96DLfZw+XLrAcKV7yWFnuhwCvUPvYP60Hysr3qhxp3FxUKCyUSWy55oSVFRTd0QSo8EcfCtHE0ehw3ursdkY8HKTMg1JeVNZclrqXBlK7h76mnaCS4n0hQQSEURpYhyXGlKYlSHW1hRadaWTY5opUDxohJKMLMQuG/KjzWiHG32nNpQfz3vU8nkHOrcpNyeSfgsTkxy8+856Pa3EihSEii4ri+wJBJrmzej6//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bookworm </div>
-                                                <div class="unlocked">19 May 2024</div>
+                                                <div>Relic Hunter </div>
+                                                <div class="unlocked">20 May 2024</div>
                                             </div>
-                                            <div class="description">Find 25% of all documents. </div>
+                                            <div class="description">Collect 25% of all relics. </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcABAUI/8QALBAAAQMDAwMDAgcAAAAAAAAAAQIDBAUGEQASIQcxQRMUYSJRFiMyUnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AgBd9ytZkK3HPcdj8asFkdMqpSk0qtXLVKXb0YyGnm26i7sddSFg4CO4Jx55+NcnonR2qdUa7dNwU9xUW2oKprTDzZAdfOQ2ORyBgn4OD40CuS8JdauAVmvrcnTVupdX9RTtAOdiSQQkDsABrWhXbq6XTaxW65XrfqlLuGKuS884zT39z7IUsnapHkj4547anKFx4MUuPKS0kEhSlcc5xjWMXPJt2dEuW2lPo9w6txDqP1IdBytl0DgjBB+ykqB45AR9fY5rDFu3RRKetMO5IfunmW2ioMyEHDmMdslXfzgnTLixvdGr1rF3zLmtCvXJUHpFcp7jVOelSVENSU5UkJyfpyPt+3Go3czdYiSPaV6Y67JZcWlUd2SXVNKBwcjJCTkfzxpO+pqPiZtaRIj/mokIyFpUnkYPg5A50AkvuSX3Hn1qcdcUVrWo5KlE5JP8Aes2YpdL7Abrk6FWKZbkoCXJDJTFEgMuOlK87m8kZUBkYBzhR786qPWC8KzZn4Vs2i3NOYmUaAlNUdjSVD1JDhCilRzztHbPbdrz2NIrzc9SuB8o3rkRYz5Uo5yVMIJP+50F//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQgGBwABBP/EAC4QAAEDAgUCAwgDAAAAAAAAAAECAwQFEQAGEiExBxQTUWEIIiMyQXGBkUNy0f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQEBAAMAAAAAAAAAAAAAAAARAQISIf/aAAwDAQACEQMRAD8AX9TwfU4qSu9tyq+2JHmCjzcnPxYc+/dS4rMttKUH5HE3A+4Ox9RjOleXjmfqJRqI42C26+Fvi/8AEgal/sC35wx3tN5eucrZmjRW3V06c2w+FkJSGisKSVEkAJCk25HzY1YIXVvL0pfZypKCsTG9SEpBCgfFUzpV662yP1jV2KdHWqQUshCilSleYJFsXxUZuWm5CVuSUOP9yXWmIZGmyasVJUXD7oTqdSlQF1C52NsLPnzM0at1CSKbS+xjKdW4pC3y8rUVkk3sAOfoBh7KBdKrlQplUfepk6RGelgsvONHQpTalAlIPIBsL2PG2GE9smr1GDXaRBhy3m4c6mqbkxwq6HQHQRdPFwQCDyPpipSzGccbXIZjqUlQPiabnnjEx65ZxhdRq9TJlOhzI7MOKqOsPabqJXe40k7WwbxVVDKqtTlxmkuKWEMoW3r42W6XDv8A2N/xjgi/CfSS6gajZQ5uDz6YJ1aLEiFTB8UO21agrb7EeeA4KAfcRqPmr/MG+F//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Opportunist </div>
-                                                <div class="unlocked">19 May 2024</div>
+                                                <div>Predator </div>
+                                                <div class="unlocked">20 May 2024</div>
                                             </div>
-                                            <div class="description">Kill 25 unaware enemies. </div>
+                                            <div class="description">Kill 50 enemies with the bow. </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
