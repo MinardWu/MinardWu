@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            208 hours played
+                            211 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 May 2024
+                                        Last played on 30 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 43 achievements unlocked
+                                            15 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYI/8QAKRAAAgECBAUEAwEAAAAAAAAAAQIDBBEABRIhBhMiMUEUYYGRMkJRof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAMBAQEAAAAAAAAAAAAAAAABEQJBUf/aAAwDAQACEQMRAD8A5Yi/MdAffsfOC4IIZ6qKI64meQKf2G58YPyKj58aMoUtrIOrwMEU1LBDnLlpPUqhLa1G3wN8SlnS3iHJmlCT5fTxwxITCYtXWSoF2N7d/jGYlhkiYrIjKR3BGNoCjz36zI1xzAST32v8W+sKc5mqpRKjK2iPpY99x/cEH6EcKzR08a1EguIeq39N+nY2vucarM6teIIRJMI4s1WQJFDEoBaE/kW9vI+cJKEZdmcCxLUwxg7BHYRuvtvscSTJ6qnmYxTrpIszxsNRHne+I100tRQJynLXhzE1DVcFO2iyc4gre9j52b2P+4RcUNJDW1TxqQskjHWFIV1O9x94vlhUSPz5pHVb2UuB9nEKzNoHpvTS8sQBgxWPdjb3wSD0pEf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYDBQj/xAAqEAACAgEDAwIFBQAAAAAAAAABAgMEEQAFIRIxUQYTFDJBYXEiM4GRof/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EACMRAAEDAwMFAQAAAAAAAAAAAAEAAxICETEEEyFBYXGBofD/2gAMAwEAAhEDEQA/APLEUTSyLGgyzHAGqiX0+Y9mrtXX35rTFUKjlmBxgfzkDz38alh/uk/05tDHZKY3R5Erx2VedkyWjjYBv76TnGjcqjY907De5IW5t++I1lgkikaOVGSRW6WRhgg+CPOsXUqcMCD4I0o7puljbLF+M16TWq3XGtqauHkRFGAq57Z+YHvk99HO53pb9gSzYLBQuccn7nydWEJXS9L1qjNasbgk7LHERAEjDJ7p+UuSQMd/vn8aSPRF97zbtWtn3J7EfvFmPLlTgn84J1N7PY2+/XWuLUSRsf2mcRspH54Ou1Rq19stR2K1iSSSMkkAqRyMEZB7aHUNlxsgZ6elq0TwZepqqxg+DwVj6zr3r8R3E0VRasaVLEgk/XIMERuy44yo6er64550bbjt9ii6iZR0uodWRgykEZ7j6+R3Gk2L1SqXrAux+/TswNWsxyHhkJyp4PzKeQc99Rtq/TWJ6+R8MX68Dl2x2z441bcoiWUT4omds3C//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Lord of Cinder: Aldrich, Devourer of Gods</div>
-                                                <div class="unlocked">29 May 2024</div>
+                                                <div>Lord of Cinder: Yhorm the Giant</div>
+                                                <div class="unlocked">30 May 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAABAUGAQIDCP/EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESITEGEyIUcYEjMlFhkbHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEAf/EACARAAIBAwQDAAAAAAAAAAAAAAABAgMREgQTIVExcdH/2gAMAwEAAhEDEQA/APM0S3JfHm+loY5IJ/qmdu6TlTpA9M9FcjheC4t9LYOMEgajnOD+KFtktzKEoCQgbrUBz+qbQ1rcddLOlpKwolSTpIx+N9xvxWMEM4fQCXZb7s64263REBLnbeka3QCdhpTkk+1drnc+jLM8pMG3Tru+B98r6DJPBwkeRHyK2ul1dvfS7km6yz6xMhr0rOQrWAlQdXjlCftwM4JJxwajpimXQVP+ThThKicmlunk7tlMNQ6StFL35CekunrlfHFIhMqEdJ+rIc8WkftSzsKtZtqsXTrqI82WbxO7mEpiKKI455cPkob8JA96FtN4YuMViIqehEdGzcdbgb7fsDt/uaxdrO268h6NJ1uI5HiR/INUb9OKso89v4JwYnuTD0mZPhtrKlx8qSAdiEDIHwM4qVnxpDLhL7K0JJ2JGx+aqI2qFPdkl5RdKVJUoqAyFApIPuCaHm3Zhxgx3ijs6gopRuo/NJzu+Ax7P//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAArEAABAwMCBAYCAwAAAAAAAAABAgMEBREhABIGEzFBByIyUWFxI/AzgYL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAzEEEiEi/9oADAMBAAIRAxEAPwDluMyXb2F7abuHOEJNdVtiNtptcqUok7QOqiACbaG0CMAgSnEhaE4S2eilfudU/giUIcR0z2OZBWoLS0hYSpxViDjuNt7k2A1vCCezGcmtAepeGzVLpyZcqY26kkApZRa9za4UT0/rSfXadEhOuttoKUAeUlYVc9/MMEfOq3XKoKlLit0ymNRqYDjr+QbbAnqABc9O+p3xvTJMSI6uSFtP71b2FD+POBfvi36dEvH4ikvm2wtwFK4XmuxKdV4cwpUjlJmtrKERyR6iix3WVkm/bHtqiyqTwnT4EpaawJ7nLUlLcBpTpA2jFzYenF799S2gzafKaS0iQwhKsctag2tPxc4OmpVQMZhDcN9W1DfL2oUm1s9wdQuRSplvDbsYotbQxSI5o8aMwQgBDrgDzoyNwJUNqf8AKce+pv4j1mZPeu/IlLQRtu6dw+va3xrNMnIC1BIW2EjFnAkDQqdWmnI/IkOBTO4KITlSj96ZcjtpBHDWz//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Pontiff Sulyvahn</div>
-                                                <div class="unlocked">28 May 2024</div>
+                                                <div>Dancer of the Boreal Valley</div>
+                                                <div class="unlocked">30 May 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
