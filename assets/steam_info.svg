@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="526" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            350 hours played
+                            353 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        40 hours played
+                                        42 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Jul 2024
+                                        Last played on 30 Jul 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            37 / 53 achievements unlocked
+                                            40 / 53 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQT/xAArEAABAwIEBQQCAwAAAAAAAAABAgMEBREABhIhBxMUMUEIIlFhI3GhsdH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQxERNBEiH/2gAMAwEAAhEDEQA/AJooFCqmYZvR0WC/Nk6dXLZTcgdrn4GGLTeAHECcgKNJbjA7/nfCf6vjT9K0wws8znkbOdEUIPwSoDFF1XObsZaEl8lK0hd7X0kjsfvFVGK12jJb8np85k3TfTpnaHFL76qWEA2sH1E/wnCwzPQJ+WqzIplVa5clggKtuk3AIIPkWIxTWfc7VWrrTS4C3lJtzFBknUoDztvscLDja+7Ip9PfkqcU+63FUsuX1aktKSSb+faMLer4YrzqNV3KqxX8M7PT9VaDQYFeqDpkPZgbYUtDSEK0JYSRqJPa5JB372tg+zm62KdDnrklpoNpKGFn3G6dRJF9rAj5wiOHufpGTetZRTKfUIU5PLktSEEKW35QFjcD9g74Ns5cdHKxERDpWWaTGi2SVdW0JC9QG+nYADYeL7YLHvNLFhuBdT2kDyH3DilzZq5qnkIiKk6SHnjb2jfQN7m1wSPrfAN6iYE5limPqb5kBt1cbqUG6S6nfT3v2JIHxgficZa2iOlqbTqTLLeosuFlTSm7+AUKFx9HGFnDiFV810SnUupswUR4Li3WlMMaFkqFjc3N/wDe+IgHNhY6mg93NQqGhP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUIAgT/xAAsEAABAwMDBAAEBwAAAAAAAAABAgMEBREhAAYSBxMxQQhRYZEUIjJScYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxESBEEhMaH/2gAMAwEAAhEDEQA/AMx0umS6o8pqCyXVJHJWQAkXtckkAZI01Z6Q7rVDMp+PGjshPMqW9yxa9wEg3xnGu+jtGcr8iu09l5thxcILC3BdICXEnOnVYq0jbOxoVHMl5qSiY4pbyV2Abzbh7CTf6e9TZiGAE3UcZHrNjn1C0PoXuebFTIiS6Q62q/Eh9Yvm37NAN1beqO165KpNXZ7UuMvgvibpJsDdJ9ixGtF9Kt492CimyJSW5LTQLTa2uSFozkWzf5/fQb4gFzVmO5VFJXNeEZx0oN0lXaUCRaw8AetKvLEg9QculKkR6/IJx8zJ/SM0VrbO4ldx1W41NpW2nioNtx0LSVEqGASSPtbXhq6nJs1K5JZW20m6Q2eVic3PzP31I6e7+k7M/GNIpdPqEKakNyWpCPzOI9o5DwPoQRpJuXq1EkqbG3do0mnIASVKkJ76uVs28JA/q+lgSSW6rqYy6OUOoTE1AcG4TbyEpamOkZsSVJSPJsSCfWM6hfEPT57EemPrQHIDbq4xko/SXE545N/BJGj8HrHWmYqGJdNpMoNcuyvsqaU3f0OChcfzqHvDqFV910WnUupswUR4Li3WlMMcFkqFjc3N/wDfOpBX3J6isu2rCT//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Reaching the Light</div>
-                                                <div class="unlocked">29 Jul 2024</div>
+                                                <div>Farewell, Obito</div>
+                                                <div class="unlocked">30 Jul 2024</div>
                                             </div>
-                                            <div class="description">Completed "Filling a Hole of the Heart" with an S Rank.</div>
+                                            <div class="description">Completed "Kaguya, the Violent Goddess (Part 1)" with an S Rank.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcCBAMFCP/EAC4QAAEDAgUDAgQHAAAAAAAAAAECAwQFEQAGBxIhEzFBIlEIYXGRFSVCYqGy0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EAB0RAAIDAQADAQAAAAAAAAAAAAECAAMSETFBUWH/2gAMAwEAAhEDEQA/AOZKRSZ1XkKZp0db7iU71BNgEjtck8AYI4+nlZcRd12CwP3v3/qDi1pXKjQ3au9Mb6jIYQCA4UWJcABv9cNufmekycrIhMxFJlJ2cqSBtsblRX5uOLY0CgHWhsX1xYoTpxNAH5vSAo+Ct0fz08DWY6JNy/VXoFRQA82R6kG6FggEFKvIII5w0EremvJbjxpDzYV0yWUEkgm/35xHXAOpg0/rtdFxbUVRa3FWyzKk2ue5sBc4isj9z6lO0I14Mx6NRKfMy9mKHT2nZebJLNmY/SJQI6VJKzftuPcc344xZZy/UwERX4kwLaBsyhv1kebX7+3nArpbqVUdPJrz1OhQpKHyOr1U2cKR+kLHYfUEYYOZfiUrUlxBy7SKfTvSN7shtL7hPkDgAJv8r4GyssexVbMY+TMprpbSYchDMFx6y3mFyCtVhyQpQ4vyklKfbnCu+JCFJbFNkMsK/C0OLjdYK3jqpF9t+/kkD2wOMa0V4tbajApc5aNxadW2ptaCr5oULj6/fGgzhqFV810SnUupswUR4Li3WlMMbFkqFjc3N/8Ae+M11ujfkV7tVhPk/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAL/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEAAURBhIhBxNBMVGBImHBFBUXceH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAcEQEAAwEAAwEAAAAAAAAAAAABAAIDERITITH/2gAMAwEAAhEDEQA/AMx2m1TrvJ/T22K7JexnY2MkD3q72zo5rO4JSpu2JbCuR3Xkp4rnovKTC1FJeWopCY5yR4p3sd4aS2JLjinHSlO505AAIG0Y8fNNnkXFWDfVrbxCEH8Ba22JKWoCirOAJI8fFHGo7HO07eZVrurPalxnC24n1G4ex81rZVyaagHZ3GlltSwhIUSU84wPPP5oP66yVTJqZToKXZKmXlgjH1FkZ4/sUe1TPnHvZed2yickT0ziW+ZEmx0S+zeXsbVOIV222UkFRJAPJ/yk2LcjZ2TG7zkmPJ2IUQyUJ3JHBKMn6R9+c0K6L1a/paU441DjyUOcLDgwrHsFfggirReOrc55Y/arZBiIwMl1pLqifPgDHxR0vaqifGLetbAj9jRbpT13aecadcaQGUMtuKSTsSnORgnJGSk4HGAM0V9foc9pVqcf2uxUBTPfSMZWPUEZODyePHpVetfVW9Qmi27GgSuVKQpbakFBPttI4+1Q2q9b3XVEGHEuaYobiqK2y01tPPrnmg5tbTyt+TU6ZmPrFn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>To the Bitter End</div>
-                                                <div class="unlocked">28 Jul 2024</div>
+                                                <div>Beyond the Cycle of Reincarnation</div>
+                                                <div class="unlocked">30 Jul 2024</div>
                                             </div>
-                                            <div class="description">Completed "Deathmatch of Creation" with an S Rank.</div>
+                                            <div class="description">Completed "Side Story - The Man Named Kabuto" with an S Rank.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+35 others...</div>
+                                            <div class="description ellipsis">+38 others...</div>
                                         </div>
                                     </div>
                                 </div>
