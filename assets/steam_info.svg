@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            361 hours played
+                            363 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        50 hours played
+                                        52 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 2 Aug 2024
+                                        Last played on 4 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            46 / 53 achievements unlocked
+                                            49 / 53 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBP/EACsQAAEDAgQGAQQDAAAAAAAAAAECAwQFEQAGEiEHExQiMUEIMlFxgVJhkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMABBESITFxE0EisdH/2gAMAwEAAhEDEQA/AIBkPKSc1S5bTlSagNx2wsqUyt1S7m1kpSNz+/eGEDgzOVV5DcyotppjCATJaaWVlxV9LfLIvqv5G9gDjq+POYujm1GivxnHY0tIdPThPNUodum6iE239+PWLsZdQy+2qU9QJEaOUgtcuS0otgJWLlRvqJC1XNtvQsMcu7luEkxHnHXFLh8RX5jfus1S+EdeixkvOSacb37ErXcAeT9FrC25vghmigT8tVmRS6q0G5LCrHSdSVbAgpV7FiN8bSRMgxcluOOvLXKkwXHdQUQhtSwbJSfViSN97jEt+Ts5MrIWV0KSnniRqKiO63J8E4VFK+tUfByM/X7R20nJXgGifABugLiVlt8uu191vU2gtq0NsIUlSjqGwJNt/wCsWqoZsqFRjswhTYcqapYbYdS/yrki3ci25HcfNrYzFw14iTciSZC4kCDMZk2S+h9HcpP8QoeB+QRhpmrjxLnNoay9QafS02SpTy0hx0LHtJASE7+Da+2ITwXJuBLCwC4AIPfqtKyaCrDeqvlTLTlXeaQqOkRWm0rZdamqVFUVG+tA3IUBewO34xP/AJR0urU+PQBMZKoSAUdSj6FuaQAB9jYE/wC4M5a495qokUslimTNjpceZKVAn76SAf2MHOIHE/MGfYEKLmHo3BEcU4240wELJUALE3tbbwLYaIlDa8b8VAFuPVf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgUHAwQI/8QALhAAAQMDAwIEBAcAAAAAAAAAAQIDBAAFEQYSITFBBxMiUWGBkdEUFyMlcdLx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESEzFR/9oADAMBAAIRAxEAPwDmC3W+VcXi1CZW6sDJCew+NIImhLzJdbaCY6HHM7UqcyT9Aaw6NfMdyYtIOSlCeOoyrH2ptYnLi9fYMdt8RnXF4SXwePSTggAnBA7AnPamlZfSDJPbwYAiH/yyvJSFCTA56fqq/rRW/WiXY7m/AuDeyQyrarBykn4HuOauXWao4uDrdoNwE9rAdZWj1LXn1YSPYYP1oh4mvOyIEN2SlaH3fLUsLSQchsjof4qdmowH2XBR01fZq6CjQJFpuLLKnXL44UltsNkpS2lQJOen+VMT1u2l4OuKWFtYVvZIJSrOOCDwfnRDRurHdMvuqTCjSmnRhxLgwoj2B+4IqXv2v0TXP2+yQYyDgnzk+acgdhwAPlSqtNZIK7sFtYswg+SyvDNmRMi3KRH3tIkI2olqTnaQTlITkFXJSSB7c0a8fYdwZNpcklL0ZCVMfiEpxuWOoIycHknHbpR2z+KV4t0byDEt76UlRbKmygoJ9tpFRGq9bXXVEGJEuaYobiqKmy01tPPXPNZm7rLebeTWHrWjqBM//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>30 Wins in Ultimate Survival!</div>
-                                                <div class="unlocked">1 Aug 2024</div>
+                                                <div>Surpassing One's Master</div>
+                                                <div class="unlocked">4 Aug 2024</div>
                                             </div>
-                                            <div class="description">Got past 30 opponents in Ultimate Survival.</div>
+                                            <div class="description">Completed "Side Story - A Pitch Black World" with an S Rank.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGCP/EACoQAAEDAgYBAwQDAAAAAAAAAAECAwQFEQAGEhMhMQcyQXEUFVGBImHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMABAX/xAAkEQABBAAFBAMAAAAAAAAAAAABAAIDEQQSITFREyJBsYHR8P/aAAwDAQACEQMRAD8A5wyjlqp5trbNKorKXZTnNlLSgJSO1Ekjruw5xvmPBeaHc4u0IrhIQ2Ssyy+nSWbkJc0X1WNurX5xF8MOPNZrUqI9sSUtFTTmkEpUCOeeOicNLj1QjVaRUEVB0yygNmUEguBoJSCVEC4sU26ufnGdi5pmPIiI283v9KzDB1BaDp/jas0+W/FnPQWJLCtDjZeKrH5SCMZit0qVRqk9BnI0vNGxsbpPvcH3HOOpiELZeW+5uuKdcU5rS2tKlDs6SPck9YNvPjrZpdObSlAP1GoaUgcbQ4+OcOjxQdlYR3Hfj4RdhS0FxOg/cqB4lmQYqHv53qG5uKAbN9kCygVWNxze3HWFVVU3Ysl6lsqW24rbIcTtgJv3c+q1rWH55wBZMzY9liQ4puHGlNu8LS4LKI/AV/hBGLtd8mzpS0ppMVmDHAB0kBZv72sAAP1fBkhDjeWzfOle1I5i0Velca36TLCU9UUNx20BpKU6fXcDn3FsGnnWnzYn21TralReRvD0lekCw/QxBpHlOtU5Ck7EJ4m5ClNlJB/RtiVm3PNXzXDjR6v9OoR1laVtt6SSRbn+sLZA8S56ACY+Zhiy2SV//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAYHBAX/xAAsEAABAwIGAQIFBQAAAAAAAAABAgMEBREABhIhMUEHUWEIEyIjQhUycYHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUBAwT/xAAkEQABAwMDBAMAAAAAAAAAAAABAgMEAAUREyHRMUFRU4GR4f/aAAwDAQACEQMRAD8AMlGpE+syVMUyMuQ6lOpQTb6Rxck7DnGiZe8D55rkVyRGhRGmkcF6UlOs82Fr9EHewxw+FzpqdVINiIo39PrGFb4qzLOlw5saoLeeQwUFp0lJSlOkDRzfq++3O/WF9xmGFGXJPRP5zTJuDqRtcHfOMUVap4ezDSZa4tSk02NJQNRbW6vdPSgQkixxFZkoc3LtXfp1TbCJDRAJSbpUCAQUnsEEYVfkhUmo5vmFaVOBCEIabG9kAauh2bk82v8A1iE+IiUHsi5aQsfeS9uVJsqwa99+8FHl6rLLvsx8ZGaOTBQ1HS6Dv3qU8FMRJdQmwmif1OUzZKyk6WkBaTcni3ZPthG05MPL0ARY3y1OgfefSmynlD8j7eg6GCBkrOM7KUxT8Btter9wUNyLEWPqN+CCMV1X8zVWQlKYUCA0eVLca1km97AXtbCu92yTcQGkKAR1I8ngdqiHOQy3prGd80hp+Y3VU+Ywyy462oAOaGwtWn0SLgk3sTb03xiXxEqfEeiRwdbDCnQpYP5bDcX24VYdbjEjT/KdZi/NLkaC+paisFSFJ0qPYsR/hjw8z5wqWZGGWqimPZo3SWkFPRsLXt2f5vvjXb7eqG2hkHITv955quRMDySPNf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Wow! Intermediate Challenge League Beaten!</div>
-                                                <div class="unlocked">1 Aug 2024</div>
+                                                <div>Boruto's Tale - All S Ranks</div>
+                                                <div class="unlocked">4 Aug 2024</div>
                                             </div>
-                                            <div class="description">You completed all of the intermediate level of Challenge League.</div>
+                                            <div class="description">You completed all of the Boruto's Tale main event battles with an S rank.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+44 others...</div>
+                                            <div class="description ellipsis">+47 others...</div>
                                         </div>
                                     </div>
                                 </div>
