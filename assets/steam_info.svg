@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            382 hours played
+                            383 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Aug 2024
+                                        Last played on 14 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            17 / 55 achievements unlocked
+                                            20 / 55 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAqEAACAQMDAwMEAwEAAAAAAAABAgMEBREAEiEGMWEUQVETIoGRMnGh8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAZEQADAQEBAAAAAAAAAAAAAAABAxEAAjH/2gAMAwEAAhEDEQA/AOfYKeouNUI4dzyN3JOAPJPsNJ7fRdO21zHcQLnUdnO8iNT77QCCcdudRaN4KHp+J1jWaWqG91LYyAxwpxzjgZ/OtCluVBU36usVworVUUEdsMiVFNRiB2m+mCOQTxuz586i1pJg81FKAFxGqtXS12A9DBLbZMjBgkaUcjj7GJPfHY5xolfLLVWSv9JWhS5RZEeNtySI38XU/B/YIIPI1r8HT0FdceiqmC1bLJPb1mqliBeKFiGYhm+c4PPJ4zoD1E3qrOzOVZ6eofYSMsF3hSCfg7lOPGlUw2XM1Yl1NbWWqoFjQsZowUCDkk5JGP7B/wAOn5jtCdS3e4PX0yW2Cj+hHiUF2m2cAAdxnI/44ySkqpKSYSRAk9ip7MPg6u0raOscyM6UpAyQ4P6GOD+MH50zFkm4cdgCZ3TVJjn6So6a6GKCegDVSCTCxtsPDLnHtxnR+6mKm6Yq1aRHeerAiZeQy7txI8faOfGqZqq2QnIZ6kkZ2om1c+SdQLhXVFxqFkmHCqFRVGFRR7Aay1G3BjRJv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAcD/8QAKxAAAgIBAwIEBgMBAAAAAAAAAQIDBBEFEiEAMQYTQVEUIiMyYZElUnKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQMRAAL/2gAMAwEAAhEDEQA/AMC0+jY1i+sELqGILvJI21UUd2Y+w/Z4A5PTlovhGpZsCGpp1jUg7mP4mzL5EKMoOc4I2/jdj26E+H1jTSBtYLJYcsXCZYBScD/Pysc/no3pVYxmOtLVjna1AzJ5qhki3ocYU8ZG4HPfPWNaKoPaSmAb3DXvBaR0qk0umT6O1lmjruWLo7D+6gkrnkDHfH7RblGalN5VhSrenOQR7g+o62Ey19L8mPR2bT9QrVlDxQttW0gXDo6jglgjHPcMw546VfFlOg1S3HQisQVaSrJT+JkDu8Z29jgZByce2Bnoyq7jypMTTqvg6zBHpkMs8lha8EzpaEC7mMRGdu3PI5J6abNmbSkatc/j7cVZkhnnH0p02/IyuRgFlVAexBzx1kWm6hPp05lrH7lKujDhh7Hpx03xlJHp01Cten0+vNIJ5Ayb8vgD7uTjgZHr69Wk3dOvj2Zj12w0ckosragmleNQ8it9OEkYO584JAOOO5HsehGtOK9WUSHbLMBF5YOeAQe/phVHH56lc19PiTNJYS1lt6pEPlXHYAEYX/vS9euWNQtNNMCWPYAcAdKfhXXhWgGd/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Showtime!</div>
-                                                <div class="unlocked">12 Aug 2024</div>
+                                                <div>Backroad</div>
+                                                <div class="unlocked">14 Aug 2024</div>
                                             </div>
-                                            <div class="description">Complete the game on Devil Hunter mode.</div>
+                                            <div class="description">Destroy a certain wall in Mission 04.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcDBAj/xAAtEAACAgECBQMBCQEAAAAAAAABAgMEEQUhAAYSMUETFFFhBxUiM2KBkaGx8f/EABgBAAIDAAAAAAAAAAAAAAAAAAECAAME/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQMAAhEhEjH/2gAMAwEAAhEDEQA/AIDRp2NWvrBC3423Z2zhR8nHj/nDflv7PJ76rJ93yWonBKSzzGCJwMDYj69u+d/jjg5WjVdMqQe4jrR6lMfXmkOFVFOBncZGOrG43bvxWObubdMlqEpdhmp1oHryezikasjunSoWQDpyMFdskdWeM73XNvNZalVRXbSbcycpVK0Q9/pD6M3V0JNXfrRm+CCf778AdQ0+ShZ9CU9WwZWB2ZT2I4ub2bOt6GJtL06bU6MsUVd3kiEcTEKEOGYr1HOAT+jLEcTDWaBSteqSxyJPQfrT116ZBH3Kn9j9Qe44iWHctC1YI0TXli5CdIrytDHYNIyxyRNgnobdWwwI2ztkeDxXeT5pOa+XZzqMBNH1GjSrIytGFTsY8Aem2fKgb58YI820btijOJqrsj4wdtiPgjyOHGhc6GvAY4rclL1GLSQsuYc43IPcZ/0fyHKJ6IVMA4Y15v5r1nRYoqNa/BPGGK9MqEuqr84PSRjAPY5OfPAXme9JNp6SXTi1MAiJknoTOT3333O588Z6prdU3DYe37ucqPy48hR8BjsPO+/Bu9bmv22nlXBbsqjZR8DhlK+HIrm8IBn/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYEBwEDCP/EACgQAAICAQMEAgICAwAAAAAAAAECAwQRBRIhAAYxQRMUImEHFTJRcf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAcEQACAwADAQAAAAAAAAAAAAABAwACERIhUTH/2gAMAwEAAhEDEQA/AOfYK9jUbQjh3PIfJJwB+yfQ6c9H0DRaip/YLXuu5CmS1aFeHPsx5YFgMYLYxn3njrX2jp6Wa1OtXrPbnuK08kMYYtIseT8QC5I3bQufW4nqZQr6h313tLTtiWtJXR1r0JGaRYFQ5+suSCBnPJ4B5PUWsJJG4BKLWKgHO5nVe2e37kTy04BTSNgrz6fa+3GmRwWGSQpJ88eCBz0j65otrRL/ANS6FLlVkR0bckiN4ZT/AKPP7BBB5HVl9rJf0PumCnQhtahDeh3XNORnTdGSVJkEYBKoSTwPywT4YdCP5HoR1TPBFIksMMgmrP8AHIp+J9vA+TDbfyABPnbnpVsItxPyFlAa7AvZNystymbMrpFHmKUqhcomd2QFIJ49A+j0dlvJ2/3+NVt1RQZF+xTjpcrKpyqufyYgMMk8nk8+Oq0pW5ac6ywZ3DyCPPTPT12KRCparFFv+UxWYBIN3645HPojPsdMxfezUuMyNV3VtK7h79o2qlnUKItsFnlwWdpM4RQu7/EgKrflj3x1E711CtZ02/NCqRpNPHBWVUK7o09gFjgHaPfodBLmvVWjkjzFJHKo3Q1aiQoSvjJxn3zg/wDc9AtQvWNRsLJMOEUIiKMKij0B0FqOg+QMaACPZ//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Man on a Mission</div>
-                                                <div class="unlocked">12 Aug 2024</div>
+                                                <div>Where the Red Orbs Grow</div>
+                                                <div class="unlocked">14 Aug 2024</div>
                                             </div>
-                                            <div class="description">Clear Mission 18.</div>
+                                            <div class="description">Collected Red Orbs from an unexpected spot in Mission 02.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+15 others...</div>
+                                            <div class="description ellipsis">+18 others...</div>
                                         </div>
                                     </div>
                                 </div>
