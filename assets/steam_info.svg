@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="510" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            387 hours played
+                            389 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        14 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 18 Aug 2024
+                                        Last played on 19 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            26 / 55 achievements unlocked
+                                            30 / 55 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQL/xAAxEAACAQIEBAMFCQAAAAAAAAABAgMEEQAFEiEGMUFREyJhFBVCcYEHIzJSYpGx0fD/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EAB0RAAICAgMBAAAAAAAAAAAAAAEDAAIRIQQxYRL/2gAMAwEAAhEDEQA/AJ/pqSozKoYREkKNckjEhUHcnthiZd9nFTHQidsgrsyLHVd5Cnl35RodXQHnvqUdyBrhaqShoYp5CBHNWLr3IuqWIvY8tXf1xS2UcVR1NbBTxXSLwg5KfEcc3JdapxXqWQmvzkyfs54EdKY1HuWsy4MA4USEkCy7aHN+p52tpPoSC11BLQz+FPuSNSupurr+YemKx47koXy6S8g8R1Js7Hf5Wwhs3WkreFswd7NNRyB4JTcm5azKP0n9ri/zCH2t3GcoAZEwMpp1rOHZXQXankKkdLHff6YPcgz58s4ZgMkNRJVzfdK9O+ltI6+awLkD8I3I+eFDl2YVOXSs9M7BXGmSP4XXsf8AbYIUzrLquGmjrDUhYEMcakbqC2rny59djsOVsUYsk+RV3AEOcz4gmr+Hazyy+0x7AzGzBD12vZgDcKbEcumAuqqTT5FMj2X2lhFGAL3UWJOOfeeWUqOKeSWbxlMcgVTcqTc8wB/P1xjZlWy5jWGVkKoPLHGNxGvb+zjLVvrUDW69n//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEBQj/xAAvEAACAgEDAwMCAwkAAAAAAAABAgMEEQUSIQATMQYiQRRRMlKhBxYjQmFiceHw/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACAwX/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBDERQRIhE1GR/9oADAMBAAIRAxEAPwCA0aVrV76wVsvK3LMSQFHyxPwP9AZJA6WzendM0+v2rmnW554UDzS75E8ZZiQCAAFBJ/KPJz10fQVZP3b+qaKGOukglneVCVkxNtBP3CjPtPGAx8nqg6TbpaPqYNrSwaNZjXSSUswrn3dszfmBQFDnI9sRPknrlZWYS5Uc8L0NkzeqoKoJG/wSZz+lNDkgkaslpVkRz3RvP0u1guXySCQcZXPyMEEjoNqWmy6bcetYwWU+11JKuueGU/I4/Qg4II6t0scUVixpUFGT62d2WuvbMQkqzVy0YkXzvQu67jyBFj4z0X/aD9Nd0+9fj7bxTTPaqtsIOGsBcg+AWU5K+PHyOHHyWRwrEkN97ksrDAkdTN6CtF9Egq1J4DK5aJhMfbHJ3S6bhjnd7cE8H3D/ABQdclMFLTdT0x71dzCqzz9hLBjaESKxkibcHYBgCeHKhsk5B6876XqFjTLiWqhw68EEcMvyp/p+o4IwQD00X1ZXkiCPO6RzKpkRkk3IQc7e4vJPjDc5HkcnquRiutvmvsHcUcMvB6lC0jVYa9RtSeWSS9tiWqtdiYok2vlRJncE/iyqoH4VIweAOg/qzUHbQhUmkhTaAoSEkKzmUOwC/wBucfYAAefOaz6ngRGetbQnDMsUMDrhiV/mZeG4/Fn7/J5J37lnUbXfsEs2Ao4wFUeAP+5JJOSSenFxHaz5G9AHmFtqqviNz//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Demon Destroyer</div>
-                                                <div class="unlocked">16 Aug 2024</div>
+                                                <div>Well I'll Be Damned</div>
+                                                <div class="unlocked">19 Aug 2024</div>
                                             </div>
-                                            <div class="description">Defeat 1,000 enemies total.</div>
+                                            <div class="description">Wield overwhelming power to exact an unexpected conclusion.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMFBgj/xAAqEAACAQMCBgEEAwEAAAAAAAABAgMEBRESIQAGBxMxQSIUMlFhFSOBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AAS32+pu1Q/bYhEAMkrZwuTsP2xOwUbn/gJC5096V0/NVqrKi3U0axwgJHWXMO6VD76ggVlUaSMEYOD5Y+8NZJI6ay0x7UjxCN6qU9wIhdiy4YeSAgTHn7mwN+Ohuj9w+p5ItdIsrwxsveaoeFkRjIxbdvt1ZODuBt68cW0ZyBEXPPTqCzLB/J0NLSSzBj3LZKxSPGAMhvic7nwu3kjGeC26WqS3SRanWannUvBURklJVzjI/BB2IO4P+E9T9R7vy3c+n9+httS09TBS/WCqlhddSJIozCWADAkhcgkfLfOcEIvbx3HlqVj3XeGNKiMhT249OlCFJUDSVLeznQPAXAxKUFiraSflqnjmErPHmmKxbsWGsrjYnOlh4x4OTgHhF6PV9ZVUi2OtuTtR2lZ44qAaUDmRkaEtJjKqGaT3sQPWxCbNdJrVUmSNTJC+BNAxIEgByNx4I8g+v2CQdlbOa6GG6Gsimq4Y5UaOeISGnk7bfeiOqlQDhcEDbTsMk8E1z1F5ePL6w2OivFRXSyRwwpTNUd1KaIAmbBJ0qGlSM428frjPVtUKPl14Ox2mdPpUlBBMyk5b5eSoAJwfBZeIrjfaOWrnqA6yJMR/RChDKCullLEEacYAyW9kg5PFHd7jNdq4zPEsUY+McUedMa/jfck+ydyf8ASNa4X/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgUHAgQI/8QAKhAAAgICAQQBAwMFAAAAAAAAAQIDBAUREgAGITEiE0FRFWFxMkJSseH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQMAEUECIf/aAAwDAQACEQMRAD8A59r1rOStrFXWSWZzrQ2T0ox9Ht7HFkyCfqcw0sjFmESE/wCIBBJ+3nrHA3EwmPpXqqRS2pGE5MiBwgD6Hx97HjRGjs/uenXcF/Fdz4HI38ZBDJkhBK0ssUBjdAOB+at4ZeWgdE65ftvqLWkmslFKA5vYQuYrtbJxq1SGXFsW0rQu8gJ9f0MST5I9HfRLO4S3g8g1K+nGYAMCN6ZT6I35+x8HyCCD5HV9rfwvaFo3DXq154ljSpqJpSI/kRxCjQBIPnY2Qffvqqu7bbZipPkLIgFhrDTAxx8Tovpj7/uLbO9nY6CWkmsiasVezU7Py6VYmV60V2BomgsVJUB+ou+XxOiQfuNfdf46adt23xfaqT3FS3iaskwkepIWmjR4zwCkrrhz47YnjsHe/XVOUrctOdZod8h7B+/SOlmUMkste2+PZ1IkXkw5g+wQPi3+/wA9Ni7Nibjvyo+7lyUmc7feeuyw07MkXCS7MwmdUQclZuOiOXLR3oE+NeujncmQjs9tNK0ENT6jxQV4I0C8Y1JY+vZOtk/93CW8pUdkaezYvFV0qAEIv49+h/HUVkL1jI2FkmHhVCoijSov4A64tXoha0AET//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Jackpot!</div>
-                                                <div class="unlocked">16 Aug 2024</div>
+                                                <div>Battle for the Ages</div>
+                                                <div class="unlocked">19 Aug 2024</div>
                                             </div>
-                                            <div class="description">Collect more than 1,000,000 Red Orbs total.</div>
+                                            <div class="description">Clear Missions 19 and 20 without using continues (any difficulty except Heaven or Hell).</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+24 others...</div>
+                                            <div class="description ellipsis">+28 others...</div>
                                         </div>
                                     </div>
                                 </div>
