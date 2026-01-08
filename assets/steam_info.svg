@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.15k hours played
+                            3.16k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        11 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 Jan 2026
+                                        Last played on 8 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,7 +135,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 52 achievements unlocked
+                                            8 / 52 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgGAwX/xAAoEAACAQQBBAEEAwEAAAAAAAABAgMEBQYRIQASMUETBxQiYTJRcYH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRMRIh/9oADAMBAAIRAxEAPwAOxHEbY9tjveY3KS32iRitPBTp31VaVOm+NTwqA8F243wNnra0V7wuCemigwkx0UDhlqDN3zuedM3cNb53rxwOOsHjdZI91t9XX6qkpDEgjkUMvxIf4dp41rfH76vXF7pi2U46tVbIqSS2xFYiskARY2TRC6YD+Ox1DrNUUoRUs0mS/Wm1Utnkud4+mlVBj9XKNVzSiOoQt4YAa1vQ8/jydDnory/ErbDbnveIXJ7lZkYJPFOnx1VEzH8RKo4Kk8B143wdHq+s0xS35jalt12kqfsxIJGjgk7A5HjuPkgHnX9jqC8+poMfya8Udhqaj7JWkpC0jKWkTemB7eCCRx/g99HGJtWR3DysYmgE8a1LOId/n2AFtfrfvqlfppcbBcMKrYq6Gu1Mwtc1PTOPjp4ZHBRwG8tvkv5J3/Q1NWL3KzvGlDkKTwRKxMVfSIGlh35DodCRf1sEej66cPpWmOWe8EDM7bXUVcghZOwwuG2Gj/FzsNsa/wC8kcbTX0tqmnHDllWQy2mLIMQtN0qktkUu6dqhz3uvDPEW9EsSQffI9joPv8wYkb2eljLrNYqi+3aruGb2qmD1UjkRoZj278BVOyw4BHjfgnRIKsouNnCNQ4/HPND3bkr6tQss2vAVASI1/WyT7Proih3WLzh//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Fanatic</div>
+                                                <div class="unlocked">7 Jan 2026</div>
+                                            </div>
+                                            <div class="description">Defeat Widow</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -149,18 +159,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcFBgP/xAAqEAABAwQBBAICAQUAAAAAAAABAgMEBQYRIRIABzFBEyIUURUyUmFiof/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADERIx/9oADAMBAAIRAxEAPwCH2jaNMXTW63eNScp9IcUUx2I6OcqaUnCvjSdJQDorVrOhk9drTa1ZiJUWPDsgiKyvkh8Pc5DhGcKPIEZGSceNDXXrFo0WoWvblaTbEmqU9EFMaTLYnrSpt1sq5IUnBCMDBGtg+z0h+2Fh24xR6NcFDo7bT0xtDjgqDhfU02Qc8PXI63ga6xpM7FVa16MOE2uWS+9IZk2VmC+sqMhL/CQ3k7UnjrOs48ecAdcXd9pU1mnLrdoVJdSoyFBD7T6PjlQlKP1DqRopJ0Fp1nRwelr3O7eWrCtap3DVKI25LjoKloprhipWCvAONgEAjOj76P8ASINPlUu6ZES23osFqlPqXUFzXFBs4+ifASrksAYwf+dQEiGVbBomt2lptdpdlS5C/wAN+gVZKC42hK5jjRBICiy3nirPjljYG+r12ivmly3WbPp1Pq6F01jh80ptPhPkr4k8N+B/nHRG7UXy3atVjrkPS4Pxr1NhAFfHOS26g4DrZ/WQoej66S3bC9bJptVny0VmmuSqq4lKRHAYQ0kf0N8FEHkolRJ/eAcazfDJ0r15N7vNd0AB+zajArCf5Jn6yoraVDRB+oJHPBGxrqH3pHqtG7NToLaGTS5DzbpkPPuR3nEhX1xHcAJGfPHI8neM9WDuF3HsiS+w4uqUr8umvckOyEh8f7pShJJyCE7/AGNez0U+5t4M3JU33GHpc9bi8uVCeAHXAPCEIGQ02P7QST7PrpmmOgleT//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Servant</div>
-                                                <div class="unlocked">4 Jan 2026</div>
-                                            </div>
-                                            <div class="description">Defeat Fourth Chorus</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
