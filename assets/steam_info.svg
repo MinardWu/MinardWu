@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.16k hours played
+                            3.17k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        17 hours played
+                                        24 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 9 Jan 2026
+                                        Last played on 10 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            11 / 52 achievements unlocked
+                                            13 / 52 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAACAcDBgn/xAAuEAABBAEDAgUCBgMAAAAAAAABAgMEBREABiESEwcxQVFhIjIIFBUXI2KBgtH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIDMf/aAAwDAQACEQMRAD8AiGzdo1j0Bm43fYOwqp5ZRFjRkhcqcoHB7YPCUA8FauM8DJzq0V21IUebVQ/2/ZhRXHu206++TIL4yUNukg9C1DlJP0nI/wAQqglSFzoMp9ffXD7YaS5ykJQcpTj2/wCnXQjaNnW7jpI15XNt9M5KXFnpHUFpHThXynBGses6VXOOqB3c3W1W7GdCsdiI7CnlJecU90yW1g4UQUgDqyOecefGtH3dtOp/TXbvZlg9NqmiBKiykBEqEScArA4WgngLT64BAONMqV4XbKTdrTa1jcqRaPvSA666pOF56u2hKSABgk/6nRD8VKZvZ+9bmtpp3eipKmQ42sK6mlgEoVjgkZwfkaK0WeZq0Y/C6z29X2and01kmzihH8bDD3b+vI+73GM8Z0v/AA48Utu38iHSUFRYRVBvhpuOntMAe5ScAfPz76Eu17Sp7aIO4WX0xgolubDSkvMZ8wUnAcT64JBHofTV38O7in2/AZjbd3tW/mXrFmT3nWywXUAEdh5JPVg5yMHhX3eYOjtMsczjTKj+JejsrPasGwrO4tFa6p19pv7ggpx1jHP045+CT6aGV+8kkgHSQ8Qt9Kt7Boz9+U1W1WSS621AZU91qTweodWVEAkEHCTkgZ5Oj/v+9oJthMb2nXLjQXne4p1/HWr+qE89tvPITknyyeMaeuw5Y54bP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAYFBAf/xAAsEAABBAEDAwIEBwAAAAAAAAABAgMEBREABiESEzEHQSIyUWEUFSNxgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABERJBAjH/2gAMAwEAAhEDEQA/AJa8vafalLt3uUlZYzJlY292jCZQD8CUhTiwM+QpXSByTycDGpV3dE6dCcTC29RQ0JIWt5uvQ4pI8AFSwQkZP0Gse3npvbaK8hRW1HgxoqOMYDbSUkf3nSi9CdvbTp6uRYqtIsuRPR0oTK/SKGeD0FCuCeoHJGRwMa2yTtywdG9z2EKE0JdBQy0ElSHnK5DalAeR1JAChn99VVTeVG6tu7mW1S1ldNhVi3e0ITKun4FJKm1kdWMlKukjKTnBwca9o9cNvbSu6aPM/NIkN+vBz+Gw6SxklSQ2ngHJyDwMnk6K9bPRR2M9wqKGpUCTEVx57jZAB/np0yR6rGdTpfrJMVSz23FNtyWlA+x5SdMf0m3a7ebYjRJcemsJrYKzHhvNpcCSc9SmiAkHJOcHz7c6Plzt6uuvT7bUmtm1SNwxITDbocsGmu61hSukpUr50kge2Qcc41GuKsaZKXn1NtlBwHGJTayD9uhROi8hkUPmrF16pbpXRbXlxo0WlrpjqMojznmytaQckpaSCkn6ZPJ9tDa6Mi3nSVA9x8pckuqPuACpR/3Xc25Y3QW8ypDqlHCnH5SEqJ+5WoHVptrblfT7L3HMtptSq/lQpDMdKLBp0Mtlok/ClXzqIKR5xnxzpkIrhc1R/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Judge</div>
-                                                <div class="unlocked">9 Jan 2026</div>
+                                                <div>Keen Hunter</div>
+                                                <div class="unlocked">10 Jan 2026</div>
                                             </div>
-                                            <div class="description">Defeat the Last Judge</div>
+                                            <div class="description">Grant Nuu's wish</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACoQAAEEAQMDAgYDAAAAAAAAAAECAwQFEQAGEhMhMSJxBzJBUWGRFIGi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMREjEh/9oADAMBAAIRAxEAPwBTtbyo2tt7bK3aWssZk2tbd6JhMp5elKQXFgcvIUriBlRxk4GNCqWxtNyT4VbXbapoYlvIy81XIcWEE4JClggAdznt40qWc9N3PguJVybi18aIjtjHTbAP+s6rfwiu51rvCtrp9g+3HZYKYrbPFCUFsApGMeMA/wB99ZNnRhHVr8Fjdcybt66mQGdu1c6C28oxnZNYhLykD6KUgAHwfIzrbRXtRuql3DwpauumQ6xx7pCEyoD0KSVNrIz5KVcT4I7HBxotv/cFlV20WTDsXxPcK3H1engoA8Up4YxxxkY+o1Ka2xTS3EuSshDcmFKirCR2w40pIGPcjRPS2w4Btc05BdbakABS2kPJ/KVJCgf0dWL4Z1U2l3dVWMqIl9DrPUjBqQ2OoVjinyfyR7+2ge5du19vszbsypm1KL+LCjsyErsGmus2GsgcVK+dJISfGceO2lOJMsNvTIkuYUcGXEg9KU25lOclI4qPnv8Ajvo0SuaisfhSt6bctrW/hwWojbdiEKSttUlvCR8wJORjtk+3fUbs2HJspcePxWtCFrJB7cUJKif0Dpn3Hby91XcydUKWIillLP8AKmNoWlOMeoqUMn7n6/fR/aW26+o2puCbcTalV7JhSGYqU2LTnRbLKs5SlXzqI4jzjPjvpFYW6zv4j//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGA//EACsQAAEDAwMDAgYDAAAAAAAAAAECAwQFBhEAEiEHEzEiQQgUFVFhgTJScf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/xAAbEQADAQADAQAAAAAAAAAAAAABAhEAAxJBMf/aAAwDAQACEQMRAD8AlXSfpWbrbE+sSHWIJQpxiJGSFSpgScEoB4SjORvPkggAka0q5VsUapNwpFgPQ2YTiQXVObpBUQSlStwI3YO4DOOBxrv8NCZFxXPLpNQMtyJJhobcfYUpCmWmiCG9yf4oUPSfGf8ATpRXnbtCVZMqFODcSnsoQoyFpLqmUoIwvJyokDIBJ4zqDTtSFEgn3EibW7JfdfjyrKIhPOFRkNv7ZDeTyU4GP1484A1jr2suHAp4rdrznp9EUU9xElrtSohUSE91HgpJBAWn0kjHB40wmOl9u1xs3A12pk+Up2Qw84k/LlKxhsFsYylKfHjOcnR9+JDu0qtxIy3IjFYMNUae3ABSypnILfB8bgAdvO0jj76BRm/RgZ5pzZdfqNHWs0uoSoSl43mO6pG7HjODzjSj6cTbSb6eufUpz9Qn1UORJ0halFwOLb3Flsq5JwcenOTyfbRStepUZxtuDcKX4zaSe1UIiApxrJ8LQSO4n9hQ9ifGq5bECkJVRmKZedElqYqSZbRkIU2CSEjYpCjnKtgx7eQSONIia+JgywnXLqLc9XsNyhmmyKazbjjSWcS2HFKaKEj05RySU+Bj2Oi713vGnXldSqjTIHyo7YbccUcKkKHG9SckJ44x9hzrWXlCpUqqVZyo9RYoiuS1vFJK5Clc/wBUnlSQdvgfjIBxIroqNI2GFQGn3GArc5OlpAeeI8YSMhtP4ySfc+2mKTo5OqrPd//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Restored</div>
-                                                <div class="unlocked">9 Jan 2026</div>
+                                                <div>Last Dance</div>
+                                                <div class="unlocked">10 Jan 2026</div>
                                             </div>
-                                            <div class="description">Acquire 2 Spool Fragments</div>
+                                            <div class="description">Defeat the Cogwork Dancers</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+9 others...</div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
