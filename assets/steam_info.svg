@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
     <defs>
         <style/>
     </defs>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        41 hours played
+                                        45 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            21 / 52 achievements unlocked
+                                            23 / 52 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgDBv/EAC0QAAEDAwMDAgUFAQAAAAAAAAECAwQFBhEAEiEHMUETYQgiI3GRFDJCQ1FS/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABEQACAxIh/9oADAMBAAIRAxEAPwAOtG0aYumt1u8ak5T6Q4opjsR0b5U0pOFemk8JQDwVq4zwMnS901oFFvGoCNbliNop8Aha5z8n6hPO0qKgQVc5A7cDI0SSYLrL0ViovrfnMsNoUk/tYRtylse4B59z99VL8Ls9LFuS6S9EWw8XzJaeKMB9BAHf2x+DrNszsGZpQ2AhVf8AS6Ja1Tcp9z9PizElqUtExuSPU7jKkKRxntkduTwM6K7vtKms05dbtCpLqVGQoIfafR6cqEpR+UOpHBSTwFp4zwcHVU/EjJYrUCl0Sn/pH56ZBkq9R5CNqQCnA3EZycjj/nU731QJFFt0VVEF+jSX3FQJDAUS1JQpO7cjOeOBkZIzgjRoqTbPvPshTWyawi45DbdUodOlvoCGnJ63HGVHOEp37DhSjwBxk/k6qzp509ctCa/JiCIlUiMW1KKlqUlWcgYJI2g++dRbY9x0hlhml3OzKTAQ967UuCQl1pzGMrH9iR/mQRk4PONUDZ98PtXDT3I3USDNp7riGnY8hSwoo5wPqEqCz48ZGDjIySMsNDfPkH2dLd/TipzWKncd7SolXdhxVqajQmyxvA55X7fY9tAF3XUHrRmwZT8b0n0ttwaZH+ZuGEq3Fwnwo8juScnPjSZ1Guhyqz6zHl9TIcOkLdU2IrSPU+mP47UHJUPPg+CcHE93RUaOEKg2+2+8zuy5PlpCXXsdglAJDafbJJ8nxoAzFtTWiM//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABQcIBAMG/8QAKhAAAQQBAwIFBAMAAAAAAAAAAQIDBAURBhIhADEHExUiMhRBUWEjQmL/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AAepwqiDo+IzSRbaxs69tYjtV7Slq9iUgrIG5XIUraPkcZVxjotWs2VZJdlWuntIu07CvPkpRDDsoNJOSPLGVNk/7wORnrxmkNUQHZkjzHXmJbtbAqostCeWG0lCXwD3QSncNw/f56q+k0PpavrbvTkOODHm4dlMEnIQvhACu+0bTjk456zlO16WVWT7qD1WyR9fpvTOkhVPZfhsPRkMSnEE8JAUR5hGCPZkcdC664i3kDU0WbQwqe1rq11xcZcBrKSEKSotlSdyfklW09iMg846pa50LpWZS0ul5kYfSRnPOisZJUQg5WCrvg7ueRnPUra01PXQ7Fhlp55+VEj2dU9LWnJcjL3ojoKu69o/sftgfbpIFpaVRz8C4EFd47U2T7cK4lNx5VXMU0HA0tP8AJyFEDapPBHc9h0+ka3amanqrpWqIrcGA0pqxYhlb0Z1Jzhzbjcg5I5UnAwPd+URqOjq7fRunJdRZU7WoIcKO0/vsW2vObDWQMFXzSSE5OM4/XO3wurn6O7buLCw086mOg4iCwbeffzxtbSlXyPbJOOec9GXMkY7JGtmI2qrHUDWpo7lVIjpYgR5RWzGRjG5w5G5fuB5SnnONw6RHjvBgm3j1cCQzPvkiROspiGQ2le9IcASASNqUg4B5H36K+J8Vy8tHraul6ca+pZS2Ibli2zIi4PZxKl7VKxxkHH4APWCjqKiBp7UNhZz6n1yXBeYjJ9UbkFhHkEHOCMrWU7R3wFAfvoi6WZEf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Heretic</div>
-                                                <div class="unlocked">15 Jan 2026</div>
+                                                <div>Connected</div>
+                                                <div class="unlocked">16 Jan 2026</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Open all of Pharloom's Bellways</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAACAUGBwME/8QAKhAAAQQCAQMDBAIDAAAAAAAAAQIDBAUGERIAEyEHMUEiMmFxCKEVUZL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERMUFR/9oADAMBAAIRAxEAPwCr2+RVuKY7i5VUV1jNm1jbpZVDZSD9KUpLqwnkfIUeI9zrZ8a6rE3KbV+N2mqOkru7pwLTXIU4U/GisHx+h1DT5gvrCE6jk41Fr40NPg+O22AR/wBb6VuKY7K9RfT+vbzKqiw+y2GY0lLZElTaQAFAH7N6/IPvodVYq8J9cWhlZy20hxQ2/VUU0JPILdrm0r/XJIGx+99W6gyOtyulyIf4iurpsOrce7SYbKk/YpKlNKKeQ+5KuPwRsHzrrXs+oY/p3gVkxS45FmtTmzHencdrZBGuTgO9/gggb1sD5L1bOTQ20l9RKGpEKTEX43sONKSP7I6OVYYtj01j+KVrXY/lEqouAtM62YYVEOgWynRWAf8ARII18f10mstx5V9DLTc+dFSviHUxpBa7iBvad6Ot79x0Qsko6u3wzHJdRZU7WQw4Udl/nYttd5sNb1oq+9JPEk63r8dStB605riEVlqyfgWkRB4hLr7bqtaAACkK2ANdJHah7xiyx6oXV1qGJc2TOd4cFOSXOZ1s6HsN+DrevPQ+/kjPrMk9RHY2OtnuQYy2pK/AQVNBSjxA+AB7/J66ZN6uZnm8eS1FlxIFc7ybMdD7bIKTr6VKWQo/vx7nry4nQ1dPimQTLiypl38qHIZjBFi272Gy0rf0hX3qI4jW9b/PgS6wb8P/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUECAP/xAAuEAABAwMDAgQFBQEAAAAAAAABAgMEBQYRABIhBzETIkFhFBUjUZEIJDJxoYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECIRIDEf/aAAwDAQACEQMRAD8AMuo97VE1+RSKGuNHgx0NNFTcVsLWoNp3efbnG7Pr/mNeNpdIbhueAiptiMxDeClIffeA3qBxgJGVZJ4HGONbehVOpr1SrFdr7AnM0eCqYmO4Nwed3JSgK+4yoZ10Cm5W4tftaH+7RAjwnqo+800GRMHgk8tpA5SpKhg/Yakq+cRTM9azmO5Omtftxlc92IsxGng0mU3/AAK8ZGAefyBqnYF61FypLo9cXGkRH4shDa1xW/EQ54SijzhOcZH59uNPtodRV1aFSvmkdh3NQRT5C3QMrQtv6bm85O8FJJHqTxoB67W/Dt69X/kwcYiPoEhtBVlTZUSFJz7KCh/WiL7xhUc6jT+n6rRafc6k1F6GKfIYVHksyidrzasZA47ggK/5xzp6t6mtVCfTJU6qNR26WZKEMSRvD7D5J2hwK86cKUN3fjkDQBftkTo9ceqdvMxHaa8hpzw2ZLW5tRbTuGzdkDdn0/zBMGlXdNpqFMsyHGSFhRSCOFJ7H2I0ty2+kNFJL4x/sefR6NVY1Pp7LbsmnuvyHfjPo/FLI2N7B5s7QTgY7c6H+v8AMbdu9aGpLD7bUdtALbm/acZUFHtu3FRIHbONQ6zeVSrLoEmW9JkLIAUojco9hz6/bVuybJnKqDlVuBqI1BZiyFoadktFa1+EoI8m4nGfbvj051nnDnWF0qxH/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Flea Finder</div>
-                                                <div class="unlocked">15 Jan 2026</div>
+                                                <div>Glutton</div>
+                                                <div class="unlocked">16 Jan 2026</div>
                                             </div>
-                                            <div class="description">Rescue half of Pharloom's lost fleas</div>
+                                            <div class="description">Satiate the Grand Gourmand</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+19 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
