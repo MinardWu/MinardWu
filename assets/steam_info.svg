@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.24k hours played
+                            3.25k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Jan 2026
+                                        Last played on 1 Feb 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            4 / 110 achievements unlocked
+                                            7 / 110 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBwD/xAAsEAACAgECBgIBAgcAAAAAAAABAgMEEQUSAAYTISIxQVEUYXEHI0JUk9Hw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACARAAICAgICAwAAAAAAAAAAAAECABESIQNBInExUcH/2gAMAwEAAhEDEQA/AM45cnN/XZIMoqq/47O4ILybmx23ZKAkdgc8KecdJu8vW4YxrNqfqqWIy8ZQ9jjBJ+CPn3n9y25B1B9M1+7NPTSzUW+ZR5hGDguMbvag7vfwQPrhr/HbV6eq2tHehDMpqVWjsb2ZmVwQPMsB5+s9vricBs9DUd4Y7O5mn5l3+/t/5W/3w40efUokjltQ2nqySiGO3IjsFkYqQpbIGCFJx77cE5Y5cfmCr1KZgVoRusT25RFBCS2EXPyxx2/f12yWmuW9Tj1upDqEluWSXakwttucskpUkv8A14ZTgn1gL8cHakkdwSGABrUp0v2tNg0MRsITUkmlhmik3hkllHW6uUICgNt2hWPkPogl5zvtLyvykTBVtdek9WeOGTBnQdPpJLjGMSKvo5wP04lJJHgisBImaaQYZV3MVy5PbsO3j/2eOt2ZpdHp1TBY/lB2yFYFX2qFIx+qjjELqBbX9+uvz3A5FVmBC/EsOQZrHL140eWrVVk1aCDqxSwiQVZ13N55fPUT7C4J+FwOI7nf8eTnaqYXtSyLIOo9hgSzdUksMHsDu+l+8ZJ4XacbsU8c1iO+1hXB6uXzt7+ORg4z9Hgq1BNqZsLDJGdwdEldy7sGXuSVzjyHCBxU+d3KW5AVxAqf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAMFBgIH/8QALBAAAgEEAQIEBAcAAAAAAAAAAQIDBAURIQASMQYTFCIHFUFxJDJCUWGSwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMAAQL/xAAcEQACAwADAQAAAAAAAAAAAAABEQACIQMSMVH/2gAMAwEAAhEDEQA/APD79eJhUSQwyPEY2KySoWVnZWbQ9x9u+E8+vNMkkdfWvIzYaMOQEGcbbPf+MfXvwt4z88qP2FQ2P7Hm5+Gtlk8UzU1phkjMQlBrI0bEyoZERpFypGvM6vsjduCcDi1qLHSpjvWV2wa6sBHcGRgRywst0nSqjgqJHlMjdMUrFmZWZl0fcPbrkvjGlej8VXC3syy+glekMygATBGIV8b7jhrHQ1NbdoEo4HmMDCeUqNRxqRlmP0/06516HIgA5BXunc3GslTsJXP29x5pPhhcrlbrmJbFaDca6MMkgNG1SHVt4YIQwxjOQc674JBNdbfM0rmBWLSNmRFyxUszbGh7dd+c0NE0VTUM1FNGjBQqhG1jmYa7B5WnVsfJZ1lBY6yqnp4rxTR3apu8qeZPG9NBT06+Z1MytteolCFOcYxkcjgvfRabdZbXTejpGqI5K6Tr6pK6UNpnbAwg/SmMDucnfKdLdUAv+BkLBiyv5ZBxnYOt8fQUMhnR5UZXVg0cbBlLEMu/ynW+TTR9ivsAwlP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Prestigious Sect</div>
-                                                <div class="unlocked">30 Jan 2026</div>
+                                                <div>The Teal Water Sword</div>
+                                                <div class="unlocked">1 Feb 2026</div>
                                             </div>
-                                            <div class="description">Join Wudang Sect.</div>
+                                            <div class="description">Invite Shangguan Hong to the party.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcAAwQF/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBAUREiEAIjEGExQyYYEVQVFSc7LR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMABP/EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMREiExQYH/2gAMAwEAAhEDEQA/AEfncxN8U8EEjxsjFJJULKzMrNwO49vPXTxkFV8TP+JZjNxZiQa04YtDE/HG8swI1OvgdDOW3xZm2/lWnkH23HXp/wDpj076es+jcrPkJseljsKHJ1pPiayFiNraEa6RbCm3aNf089c72rUBvuWSo2HBETPNkq8zxT27scqHRkeRgQfqOtuFyk6Wo4LEjymRtsUrFmZWLLwe4dvHVeciljy08dl7DyptQmxGUfhQOVPj6fTTqjHrpkqf86f2HVOiNEOEdGTIU7F7PNWqRPNNLYcKijUk7j006VwjLx4Wrk8zTo1Dssxw1zNNFJ7fyhtDt71ZdB26Dj8z0EtHcx1+xaobjLYUrMi7mZdzE8do7e3qUzLA9kNVu7ZZY5dfaBOqhxz4/f0LK67ExvPyKuxkbc6hTUW/ahzOMz08leKOP3riyxmNJpRs1HYhO4aLqFI12a8+CHXKcdLNUooo3RfiPb53FWKMvepbkhgw+4J4BAHRyVye76ms5g1cgJJZvdA2c+APm8jx1kpUmaSAssqmKRpI45NULHWMa6AEAcDU/wCdIJWgPETMzNmmf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBQcA/8QALxAAAgEDAwIEAgsAAAAAAAAAAQIDBAURABIhIjEGB0FxExQjJTI0UWFzkZKy0f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAaEQEBAQEBAQEAAAAAAAAAAAACAQAREgNB/9oADAMBAAIRAxEAPwDEL7d5vmJYoZXh+GxWSVSys7KzcDqPTzo2hoZ57dM094uSXPpMFJGN4dWQMGZy4CjnsAT+WqC9KxulThSVE7sf5HWh+X9HQXW4CWtiS2GpNS1I1bEWpJD0hUBBUjbl8kZx08alUQfV1SK15mRqw3WinMNVVVscgAODKf8AdFWW6Tx1UcFRI8pkbbFKxZmVmZeD1Dp40w+bdNbaTxhNR2GpgqbZTIiJLESxLbcsGY9yCcewA9NKdvX6yo/10/sNEsR7zFPLzddYphdKiaIg7J3IBGeQx9PXTr5Xz3G4zSzVddut1txIaaaZY4pHZsgMWKjG4ZyTkHGOdUF1oJS8jQozO7FpEUMxUlm5HSOONT2s1NDRTUyUs3wpowJAY2wSHDA+/GP31oEKz3+ZVKThuK8S3mluF4vUt3ovmLhIESnNNIBDEendgq2DhRgE5785Ogpro1dJa6cUFvpIoZYvu8CiRiMLlnxuPtnH45POh5qSdpNyU0/bafoz2Hb099T0FDIZ0eVGV1YNHGwZSxDLz9k8c6X0sa9Zm0nzv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Treasure Hunter</div>
-                                                <div class="unlocked">30 Jan 2026</div>
+                                                <div>The Solitary Hermit</div>
+                                                <div class="unlocked">31 Jan 2026</div>
                                             </div>
-                                            <div class="description">Open more than 10 different chests.</div>
+                                            <div class="description">Invite Bai Jin to the party.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
