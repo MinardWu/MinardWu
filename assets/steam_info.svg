@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.26k hours played
+                            3.27k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        20 hours played
+                                        24 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 4 Feb 2026
+                                        Last played on 5 Feb 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 110 achievements unlocked
+                                            16 / 110 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABgUDAgQH/8QAKRAAAgIBAwQBBAIDAAAAAAAAAQIDBAUREiEABiIxQRMyUWEWI3GR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAIREAAQMDBAMAAAAAAAAAAAAAAgABAxExQQQSUfAhQmH/2gAMAwEAAhEDEQA/APEs1lJ3tSQV5HiMbFZJVLKzMrNwPI+PPXDEQZPLLbavlHiiqIHmlnsOqqCdAOATr7+Pj/HVLBds2O6spno6VqtXlqOWVJ+PruzkKgPwTp7PSTtLsPE/wUZfuUyQNK31laN9G2keES6HyLaE6ce+dApPQFGTAxWqijkAjcb0upONwa3+zxmB3BlIJEcxyKw3q7jXwRQwJP4JPwSQPiDhcpYjuLWtO8jl9iSMWdkZivB8h48Dqp3V3BqIqlGNY4a6bIoUOq10/egG5zwSeNf1wAfxqg5Cm4O7dOhLfnyHPWUZNIaJhg6lc4rLSCaWnZlyLJNLuOyeszlJF54Voxq+v4ZtQQuoTJJZ7uDZR3dMDBZanAysBp466BQTtY6Luc/kBdeCo1RPRmtIIDbpXCTapHc3kxbyXxGn28H/AJ1s2Sux7o69a2kcyiOfZGVDqPtbTTQOPhh69/JHV0ckL7XP1wuYYTjvaO5Z4735ge158nVlyeJNSrTpRNG/1nCGxKjEsQf0GALMR6GvsHo7QdVyVQgFdbCBkI9NuH+v2Ok9u/cMksVGpOlF3WYVmhIjWQA86fIB5A9c+uB10KmPlnyTXrgd7jyGb+zcrSPuXVj4njy99I1TxG+4L5VGkeYBcJfI45Zf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFA//EADEQAAIBAwIFAgIKAwAAAAAAAAECAwQFERIhAAYHEyIxQVGhCBQVFhcyQkNSYWKx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAyExEiJBYYH/2gAMAwEAAhEDEQA/AA6/3iYTyRQTNCUYq8q6leRlZth5Hx39yPljjJS6VwJE9wrUympNJLEn2BGrYH4/LjvdmP2lVCSNG0zuI9iWxrJxjODuT6g+vCd0qsEVo6v3C2X2IVVZbqQyQlcEJU5jOoajhiNbAE++GAyNoE9I3NDBa7YXWyrvFwqoqamnr5qmU4SKNmJY/wBYOfTf042bXX1lLcPqVf3TP3O0rS6meNyy+J8h47cP3VP7wXBLHHyrFO1dDUEyS1M+l6ZsaAQhOSWDt+UHA9Bnfgk6kctVHLXUCkhqpYZTVpTVaGIYABOggj2wyN7k4xkk54RMhdvVfZIhg1eJG1lSaDmdaxo+6tPWd7RnGvTJkjPtnHDl1H6Yzc1cz03NdgusVJTV0UM80sgduzpRArxtGDnKgHfHxDHOxFd7U8srvGjNIzFnRQzFSzN/iPHbip5R545l5eooaHszVNHF4x6lYSRr/EN7qN8A/wCuGa+V5hEdLe5qb8ZIGlkijg09xcK2hQF1kbncDG3ljPET9ISpou3yjb3QG5xVHdi0naOmJAbIz+pgmDj9tvTfOD+JdfHHMae01bTORnu5CnGwyRvsPTiJrKi4329Nc7xI8lYxBjRwy4CsuFAwcINX/bniOLGU2Y7G5//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Collecting Mastery</div>
-                                                <div class="unlocked">2 Feb 2026</div>
+                                                <div>White Jade Tiger Token</div>
+                                                <div class="unlocked">4 Feb 2026</div>
                                             </div>
-                                            <div class="description">Reach max level in Collecting.</div>
+                                            <div class="description">Solve the White Jade Tiger Token quest.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUABAIGB//EADAQAAIBBAECAwMNAAAAAAAAAAECAwQFESEAEiIGFDEjobIHExUlMkFDUmFiY3GC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECETEhA0GB/9oADAMBAAIRAxEAPwDiV6us71UkNPI8RjYrLKpZWZlZtDuPbvimO4V8vV81W1zdIzp2OffrhLowe5VydXR7d8kj9x3x58ndsW6XR7W1fRW6SRWYTVPUUk6QSEJX0BIGWzoZP6czxqOywtpvkRKauvU4etrFY7wZW37+MLLdJ46qOCokeUyN0xSsWZlZmXR7h264x8e2yns3iCW00dzpLtBSrGFq4EK5PTtTsjWRsEg4H35HEdvX6yoz/OnxDmTUdjgSeS0l6jXzFY7aYTPg/wCjzZPBHim4eE6dKSmtiPXXNgFmkiJlNO4K9CBu3DMQQQPVdhtAULta3lkZkRmdmLvGoLFSWbf2RrXAPQVtayvWmtfy0axU4cM3QoYYUZ9FALHA5C7Sui4tK7Vhb3HUVN3rapLcsNOoQzNTyCaJGOAD1rkb0Mkk9QOTnPKtGmK+kOPxk+IcuS/Sj06U7+baL2hftbv6mDEN+YZVT/e/XmduoZTMjzIyujBo0bqUsQy7Padb9eG37r5gdPqP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QALRAAAgEDAwMBBgcAAAAAAAAAAQIDBAURABIhBhMiURQxQWFxkSMyQkNioaL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/xAAbEQADAQEBAQEAAAAAAAAAAAABAhEAIQMSQf/aAAwDAQACEQMRAD8A4hfbtOaiWKCR4u0xWWVCys7KzcDyPjzotJHNLZfaZrpcY62Yg0sO8lJV3bSS2eMc/Yeuq66Qme5VUMY3SyVDqij4nccDVzZ7TXUn4Eiu6N4vJABLsQnnGSOeP70ABNnPQLNU1D3OmfbLW1Q+YmJH3zpuy3SdKqOCokeUyNtilYszKzMvB8h48a1HUNqslL0VBJS1VJVXAtC/diWXvHKv3FkDDaFU7cEevy1ircUNzowrKSJ04Bz+oaNDCzVKzluje4SK6qmUkETuP9HWrtVwV7PSSnaa2NS7mXgOc+P14x9dIV9rklqi6qGyxkki5JBLN/EZHGiTz3KR3EVIydwAE9k+OM+709+krD90fVPucxJOtupFEkcbQJEf2WiBwPQg6PWdV3K90dqt9fTW+JIKqKTfT0yxuxXxXJA4GDz6nn4aUuJraoQpLSuTFu81QkvnHvOOcY1CgoZDOjyoyurBo42DKWIZefynjnRYg5eSBBwS7//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Lady Warrior</div>
-                                                <div class="unlocked">2 Feb 2026</div>
+                                                <div>Tiedan Joins The Team</div>
+                                                <div class="unlocked">4 Feb 2026</div>
                                             </div>
-                                            <div class="description">Invite Lü Xian'er to the party.</div>
+                                            <div class="description">Invite Tiedan to the party.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
