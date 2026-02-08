@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.27k hours played
+                            3.28k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        30 hours played
+                                        33 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 Feb 2026
+                                        Last played on 8 Feb 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            17 / 110 achievements unlocked
+                                            19 / 110 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECAwQFB//EACoQAAIBBAIABgEEAwAAAAAAAAECAwQFESEAEgYiMUFRYTIHFCVEY7Gy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGhEAAwEBAQEAAAAAAAAAAAAAAQIRADEhIv/aAAwDAQACEQMRAD8A4ffrxMKiSKGR4jGxWSVCys7KzaHmPl3yey0lddA6pepoZwoZEkd8Nn7Gfv25jX9c11Ucf2JP9nhR4BtMV/ucVLPVx0zzIIo1f8XwjHJJyPyCDHVjhiR6cz+VWnaBSxCjZ1/pq2z1UdObxUVEhQM5R2CqfgHO/Q/Hpxtluk6VUcFRI8pkbrFKxZmViy6PmHl1wi/VDwlH4XrbSiSdpaqkE06h4yI5fdMIB6Z9ffP1wSt6/wAlRn/On/Q5KGFGpQqY2S6NG13mhmysRqGLsPYdjwsoovDVTRwxW5aqW5y1MKBkifvAoC5MXUgEk9ttk+gwNtzJu1tdpXeKIvI7FpEALFSWbY8o1rlu0U6UUL4oakTMOpftIB1OQQyrgnWxv4BB3xRMBh5obylIb5LSVFxereALAs6HspO85YnYBPrnGtYHLNZ4aqLU9oqZKy3VCVMvZRBPtQjJnPYDOe4x1znfxxJ5rkI5f2j1dKZtSrSwiBZBnOCEABx955Sttq61EcjxMsiMGjR+wLEMu/xOt8HyAa2293//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYEBQL/xAAqEAACAQMDAwMDBQAAAAAAAAABAwIEBREAEiETIjEGB0EUFTJRcXOhsv/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADEhEhMfDxIkJxgcH/2gAMAwEAAhEDEQA/ABC83drKtqKZ0lSVLa1sCYylKMpcDuPbzrzbEXe509Q+lq6uSkfkescn9hnXFu8pC9VwjHdh7DgxEh5Pxq+9uLOq5LpoOLk0knjqtXESXCIEiCyHkjeFj4GDjOSNSZlprc0qqFzgsl3i6Jp1PnW1fRYSIy6p8jyCM8HWiy3R8KpaKhk2lktqmyMpSjIyjwe4dvGrX3U9P0trNGLMtDqeFNGdwbTRmYLqJnHk8CJIG0fGfAyNH9vji5Uf88P9DQrq4xWL0yhtac6+RH3etBjuy9uBn550n+0129PWGgn9TcpU94rBIMi2ha5a1DjaYwwZbhnkEY1JXSyxbWTdJc2bpb2KhulISMpcjtHbwdYqWzspnwaKCbOmRIRYkyBIkOD+oIH96zqlRbH03zBSVzG+Y0eorWz1HYU1s7Vcqa1VVKLjN027uhPZE9UAzyxYWJ8Y3Y8aHEmm+9wXRPNShdTELcVlfUhvxGe08jIGcfGldPund0opFptJWmmX0VIjCQgIYAwRjAGBgAZ0cUVtXGvY5VN9OC4sUkmQJxMY5MSdo3DnQtoHSNfHzfuci7un/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Discipline Elder</div>
-                                                <div class="unlocked">6 Feb 2026</div>
+                                                <div>The Gusu Wheelchairman</div>
+                                                <div class="unlocked">7 Feb 2026</div>
                                             </div>
-                                            <div class="description">Invite Li Yuanxing to the party.</div>
+                                            <div class="description">Invite Leng Wuqing to the party.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFA//EADEQAAIBAwIFAgIKAwAAAAAAAAECAwQFERIhAAYHEyIxQVGhCBQVFhcyQkNSYWKx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAyExEiJBYYH/2gAMAwEAAhEDEQA/AA6/3iYTyRQTNCUYq8q6leRlZth5Hx39yPljjJS6VwJE9wrUympNJLEn2BGrYH4/LjvdmP2lVCSNG0zuI9iWxrJxjODuT6g+vCd0qsEVo6v3C2X2IVVZbqQyQlcEJU5jOoajhiNbAE++GAyNoE9I3NDBa7YXWyrvFwqoqamnr5qmU4SKNmJY/wBYOfTf042bXX1lLcPqVf3TP3O0rS6meNyy+J8h47cP3VP7wXBLHHyrFO1dDUEyS1M+l6ZsaAQhOSWDt+UHA9Bnfgk6kctVHLXUCkhqpYZTVpTVaGIYABOggj2wyN7k4xkk54RMhdvVfZIhg1eJG1lSaDmdaxo+6tPWd7RnGvTJkjPtnHDl1H6Yzc1cz03NdgusVJTV0UM80sgduzpRArxtGDnKgHfHxDHOxFd7U8srvGjNIzFnRQzFSzN/iPHbip5R545l5eooaHszVNHF4x6lYSRr/EN7qN8A/wCuGa+V5hEdLe5qb8ZIGlkijg09xcK2hQF1kbncDG3ljPET9ISpou3yjb3QG5xVHdi0naOmJAbIz+pgmDj9tvTfOD+JdfHHMae01bTORnu5CnGwyRvsPTiJrKi4329Nc7xI8lYxBjRwy4CsuFAwcINX/bniOLGU2Y7G5//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAgMH/8QAKRAAAgICAQMEAgEFAAAAAAAAAQIDBAURIQASMQYTIkEUUTIVFjPB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAMAAgT/xAAeEQACAwACAwEAAAAAAAAAAAABAgADERIiMUGR8f/aAAwDAQACEQMRAD8A4lmspO9qSCvI8RjYrJKpZWZlZuB8j8eescbDm8p7v9Nlv2faUu4jlOwB50N8nkcDZ5H76yvV5reYsVacbS2Z7DpGi+Se4/8Ab6Z6lKWjSTE0H91Y5yLbmkbAksqD3LEjIV2q8Ekjfb9DZIM4UR0TlAjUM92uI7NuWwgDNWjeVplBUMdrrjQZdk6GzwTo6rhMrOtmKGxJJKZGCxSv3MyMzLwfkPjx46dcl6ombKR4/KXTkI79aEPcaA15a7nboNQDbrp/475J/kOek66tEepqwxkomhEkZeQFiJJC57mHcSeePs6Oxs+eoWBsAX15ka+Okmb+mnX+8cpF3rHasRWYKkpbt9uY77WDeVPnkf76M41ctiq1aLEYDIzWo67w3V/Hkkgcl5B8lUac9rcMSRr66A5bESNaeaBXMrN3uidxZGLNyPiOPj56MR+ovVaIqLNYVVAH+NuisQk6JutwBhhrH4eTAV4MzmYt5+yiwY7HqdFT2e2O8ee4j68KCd88KsZiri63qaqMNYnsoTC1iWVAg/ILkuqKPCgkDXPO+T1Md/1Auchyrmea3EdxmWIsqn6IBHBH789Wignt5OW7ajCTyzGcRAMgL9y7Pg/Hnk/vrorStKid7k+PWfsGyx2szOo+7P/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>White Jade Tiger Token</div>
-                                                <div class="unlocked">4 Feb 2026</div>
+                                                <div>Martial Disciple</div>
+                                                <div class="unlocked">7 Feb 2026</div>
                                             </div>
-                                            <div class="description">Solve the White Jade Tiger Token quest.</div>
+                                            <div class="description">Become a martial disciple.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+15 others...</div>
+                                            <div class="description ellipsis">+17 others...</div>
                                         </div>
                                     </div>
                                 </div>
