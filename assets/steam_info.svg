@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 4 Mar 2026
+                                        Last played on 5 Mar 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 49 achievements unlocked
+                                            13 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwQIAgb/xAArEAABAwMDAgYCAwEAAAAAAAABAgMEBQYRABIhMUEHExQiUWEygSRCUnH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAP/xAAdEQACAwEBAAMAAAAAAAAAAAABAgADESESBFFh/9oADAMBAAIRAxEAPwA/vm/Loavi4UwLlqzUMT3gw23KUEob3HaAM8DGpreuXxCuKqs06j16uyZTpwAmWsBI/wBKOcJA+TqQ29Mua/6nAhFtv+Q648+6cIZbCuVqPxyOO5IGtK2JRKHa8FinUKPL8wlK3pLyNjks4OVKGfakdQDxgHGeuoGeuuscG4JsqFmP1M6XTXfESh3HUaUu5K7IXCdDK3I77pRuKQRz+++lDwlpF9qmMVu9LhrUOmsLQ6iLIlkKfwcnck/1xxjqSew0iV6oQXKi23GZzIcT57zCFcqyeF88AYGSSe4H1qKsVP11GWqjxUErdCXkuOBTiGwTuUQCcYx3PccDUVnydUqFA/ZutA2CNv3sxZV6XKXaciUuTOSA4tWA0ErVzjucqBH2M9texq1zSX6q3VJ1YU4I585qLFSTuSeQXN2EJ4x1BOM9dF15W3cZvSpyYNDnvNCat1tfpStC/dkHpgjUNUo96VdzdNotSDaeEMNRC22n/iQMfs86oalLPLBgODewLYV0ZFiddk+3RUJdTlokOyAH0o3h0spIyPdgA5z+IH3odoNdm1fxLps0vOtKkS20FKVn8CrlJ+Qe/wA64n2ldJYbjooVWWke5R9Osj6A1dY9o3FEu6iPyaHUmmkzGlOOLjqCUJChkk9tNaqqkY+gSRCzsxHJ/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QALxAAAQMDAgQFAQkAAAAAAAAAAQIDBAUGEQASByExQRMUIlFh0RUzUmKSlKGx8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEF/8QAHREBAAEFAQEBAAAAAAAAAAAAAQIAAxESMSETQf/aAAwDAQACEQMRAD8Ano06fdF1XlFF1VyG7HnuuRAxKVsDBUQBszgBJx07HS+vKs39bNUVEm3LWQkje26Ja9riPxJOf80PTaxKol81GZBdU083LcIKT+bofjTyZk27xSshyPKd8rUWEhxQIGY6zyKk+6CccvnWZj46zTMUPzlMESeYnSkA5xGvNSyU3TWgOw82v66JOHd+3S7fFAbqNy1d6Gqc147bkpSkqRuGQRnmMaDbqtybbddkU6pMqbeZPcclDsoe4OpbVX4Fy0VA+8dltZ+E7h/em5wtttkBygmdgalvPCLrrW7omW5n9XTVG27jqVv1dqoUx9TUlB6joQeoI9tEl9WrcMm7KuuJRKi7HXLcWlxEdRSsFRwQe41iNWZcoOTQKp+2V9NS3cttsFOVciWyldAoet/iFaCK9Xacpx1lS/FKVHeF5A2pwc7eYwOmkWiIxF4vR4kJZcjNVRCGlE5ygKGP41v0SRfdtUiVTKXQqgW5OFqWqKtRaV7o7Zx1znVuFSKlU7ltqrSrdq0Wsmcj7Rc8sURyhJAS4Bj0qIHq7cug0oBa3NvHOPaMu2HHtf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Arms Collector</div>
-                                                <div class="unlocked">3 Mar 2026</div>
+                                                <div>Blood Bound</div>
+                                                <div class="unlocked">4 Mar 2026</div>
                                             </div>
-                                            <div class="description">Unlock each of the Infernal Arms</div>
+                                            <div class="description">Max any Weapon Aspect</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAuEAABAwMDAQcCBwAAAAAAAAABAgMEBQYRABIhMRMUIkFRYXEHkTIzQlKBotH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAIF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAAxIEITEREyJBYf/aAAwDAQACEQMRAD8An9835dDV8XCmBctWah9/eDDbcpQShvcdoAzwMabrGVeNUp6JU2v1yQ7IR2jMcT1oIb8lcEEk84HoM+elGZayF3BU59ZVtjGStbcZCvG8N3GT+lJ+/wAaqdCdZcpssutNrmraLzTATwjYMJ2/B8uvGuPdanbVUA+yuuryJaJd3OXtHWo024LjYdbQpa2nJjhTtT1OT0x/I0AsK97uRftBj1i4ayqP35rvDL0lZSpG4ZBBPIxqvtwk0qnCVKqfbQ2gQlktKJKeQVLUfXBwPfGufochab6pqF8OqmNICf2thQwNOnbNWBA2BhagBHSUSrxn2rgfcnhaI6nVdk4UeEgH8OemtFsVSZb1WU++wudHWoqIQrg56keiuB9tN1TjSHJElK4q5EM7t7XZqyo5I8HGM8DnPnnSTFtitbNyI74B6pWkoI9vf5+dRKwK7yg8w19T7nVVaeiNGU+Yj0pTri1tKbAKU4S1hXplRI58udIdKtOVVfqBSJ8HBZTiTJJP5YbAP9uAPfVRqInyIr4XSVSFuEZbUCsFWOVcjA4H30Ptyn1iny1sw4CmVSXWVOuLSdqI6VArQCceL/NaS3AHE+oMuXM//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAAtEAABBAEDAgQEBwAAAAAAAAABAgMEEQUABhIhMRMiQVEVYYGRBxQjMkJigv/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACARAAEDAwUBAAAAAAAAAAAAAAEAAhEDEiETIjEyQVH/2gAMAwEAAhEDEQA/AInde7d4yd/5pjEbgzCYr2SeRFbbkrCUoC+gSL7AEa63l98LysfHQtzZvKzlJ5usQ5a1eEP7K7dPt6XqppiLMGQQ1HNLca4eIl0El23FcDXA0i/blXcHWOw4MvAvyFQ5PEZXxHHFOIIQ6ylVpQFULVVk1Q1xxXbb1GB8TejBU3kJ/wCIrm4fh5zucxr7rZdaRJnKQh1PopJuqugRZI0PsPeu70b8wjGX3DmHIycg0iS25KUpJTy6pIuiCPvq23bHn5FeLUwllMDGSESEhpakqS25YUCatPJIrjZ6176VY1oObwnZBEdpcdaWG0lxQ4FY6WlSQUlSQe3vQuzoFZth2jhBpSULkZLbmVyrMVMtp9Uh0OJS6hwOcUkfsA5AXx+l99Pt0ZKVJ+E/CloKmWv05DChZ5JAUgo/jV3/AK1jL2vkIOZy0zHtTEvvyXHg4yjqQSCOvqL9O+msQZ38w+teDcdZryJSoM+HyHm8O+vE9bB7dNK3NMQVsJ9Qr0bIjb6gvmchLcAkLedSAGWkkghIFBPYe56fLSSLNjKzsRubIcecXIQG0skmOtRPl8vl6gm+RsX2GnEfE5KaswZGOk45D54ulpCnFOquwXHFmuI9r+mqTF7RcgvsNr6tMOhwOIcSUKqyTXcnqALHSj8tVc9oBypAK//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Death Dealer</div>
-                                                <div class="unlocked">3 Mar 2026</div>
+                                                <div>Bad Call</div>
+                                                <div class="unlocked">4 Mar 2026</div>
                                             </div>
-                                            <div class="description">Beat Thanatos by 15 kills or more</div>
+                                            <div class="description">Use an Olympian's Greater Call against them in a Trial</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+8 others...</div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
