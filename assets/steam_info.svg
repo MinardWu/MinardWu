@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.33k hours played
+                            3.34k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        18 hours played
+                                        22 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Mar 2026
+                                        Last played on 6 Mar 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 49 achievements unlocked
+                                            15 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QALxAAAQMDAgQFAQkAAAAAAAAAAQIDBAUGEQASByExQRMUIlFh0RUzUmKSlKGx8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEF/8QAHREBAAEFAQEBAAAAAAAAAAAAAQIAAxESMSETQf/aAAwDAQACEQMRAD8Ano06fdF1XlFF1VyG7HnuuRAxKVsDBUQBszgBJx07HS+vKs39bNUVEm3LWQkje26Ja9riPxJOf80PTaxKol81GZBdU083LcIKT+bofjTyZk27xSshyPKd8rUWEhxQIGY6zyKk+6CccvnWZj46zTMUPzlMESeYnSkA5xGvNSyU3TWgOw82v66JOHd+3S7fFAbqNy1d6Gqc147bkpSkqRuGQRnmMaDbqtybbddkU6pMqbeZPcclDsoe4OpbVX4Fy0VA+8dltZ+E7h/em5wtttkBygmdgalvPCLrrW7omW5n9XTVG27jqVv1dqoUx9TUlB6joQeoI9tEl9WrcMm7KuuJRKi7HXLcWlxEdRSsFRwQe41iNWZcoOTQKp+2V9NS3cttsFOVciWyldAoet/iFaCK9Xacpx1lS/FKVHeF5A2pwc7eYwOmkWiIxF4vR4kJZcjNVRCGlE5ygKGP41v0SRfdtUiVTKXQqgW5OFqWqKtRaV7o7Zx1znVuFSKlU7ltqrSrdq0Wsmcj7Rc8sURyhJAS4Bj0qIHq7cug0oBa3NvHOPaMu2HHtf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAoEAACAQQBAgUFAQAAAAAAAAABAgMEBQYRABIhBxMxQVEUIkJhgaH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxESIUExYf/aAAwDAQACEQMRAD8AA3Gqz/IsxyhsXyOtalgr5hHTLcfLMcfUekKhPYf5wS7+LS1MtOazJjJGAzdNQxGiddiDo/zga2tcB4rtHaKw0dZNcHiWbWwAWO9j8h+vfnUdlgSipCtwqmqZwS7zeWIw7H1bQJ0Ne365yLLTSF6B0DyakrV9+yQWEeIFpxq43e93u6LWSmOnpaeeqZ/JVzouw3rq9APje+AqLxHvVf4u2lYbzd4rOlZTwSU0szKGVNK5Zd/kQSQfnvy4UmS2yqrnoIaiCsYEFooVMnSeruxOtKANe/rznTL7LT4x4v01Db/N+nqKyKaIyHZCM2yAffvsfzgpZXZyw7wxWJgAEXMkqZ6DObnUUjtHUQ1ztGy9iG6u2v7ymYZcL7mEF0haomt9NJJ96u7FYI0BMm99ySQB6g8Qc6xXIanLLu9JZLjLTvVyOskdOxVwW7EH45RsQyS+WfBq6Csxe61WQyuIwzURCSx6ADOw9SBv1Gz25a/i1accJ69hrJDHZuwQUFsusjxMiPtkVp2PmyjQ+0AHpHp23774ueIdypLzm+EzQh0qhVlHicDqC+YO51++Ya574sbPHjN6mqW+4qaZtbPy3AGO2LKqrO7PcLpZrkg+tiZ3eBgsSBvk+g5CqvNdjmA+/kbv8An/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Blood Bound</div>
-                                                <div class="unlocked">4 Mar 2026</div>
+                                                <div>Three-Headed Boy</div>
+                                                <div class="unlocked">5 Mar 2026</div>
                                             </div>
-                                            <div class="description">Max any Weapon Aspect</div>
+                                            <div class="description">Pet Cerberus 10 times</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAAtEAABBAEDAgQEBwAAAAAAAAABAgMEEQUABhIhMRMiQVEVYYGRBxQjMkJigv/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACARAAEDAwUBAAAAAAAAAAAAAAEAAhEDEiETIjEyQVH/2gAMAwEAAhEDEQA/AInde7d4yd/5pjEbgzCYr2SeRFbbkrCUoC+gSL7AEa63l98LysfHQtzZvKzlJ5usQ5a1eEP7K7dPt6XqppiLMGQQ1HNLca4eIl0El23FcDXA0i/blXcHWOw4MvAvyFQ5PEZXxHHFOIIQ6ylVpQFULVVk1Q1xxXbb1GB8TejBU3kJ/wCIrm4fh5zucxr7rZdaRJnKQh1PopJuqugRZI0PsPeu70b8wjGX3DmHIycg0iS25KUpJTy6pIuiCPvq23bHn5FeLUwllMDGSESEhpakqS25YUCatPJIrjZ6176VY1oObwnZBEdpcdaWG0lxQ4FY6WlSQUlSQe3vQuzoFZth2jhBpSULkZLbmVyrMVMtp9Uh0OJS6hwOcUkfsA5AXx+l99Pt0ZKVJ+E/CloKmWv05DChZ5JAUgo/jV3/AK1jL2vkIOZy0zHtTEvvyXHg4yjqQSCOvqL9O+msQZ38w+teDcdZryJSoM+HyHm8O+vE9bB7dNK3NMQVsJ9Qr0bIjb6gvmchLcAkLedSAGWkkghIFBPYe56fLSSLNjKzsRubIcecXIQG0skmOtRPl8vl6gm+RsX2GnEfE5KaswZGOk45D54ulpCnFOquwXHFmuI9r+mqTF7RcgvsNr6tMOhwOIcSUKqyTXcnqALHSj8tVc9oBypAK//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EACoQAAEDAwQABQQDAAAAAAAAAAECAwQFBhEABxIhEzFBUWEWI3GBFCKh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIBEAAgMAAQQDAAAAAAAAAAAAAQIAAxEhBDFBYXGx0f/aAAwDAQACEQMRAD8AEXNd14Ttx63BotxVZLTtReTGaRKUlDbfI49cJSBqkWfbVfrEFK5e4tdVL8MKcZjST9on35dkY+BoJbUpmnVG+poYZeloeS0EvZKPDU4c9DBzkYzn1GrttYmmTKG7V1JDEx4lDvJYUlHE9hKh5g9H/PTXKZwMUAdh9RkVjCTJTubbt/WzAeqtKvetzYDQ5OIckqQttIHZ88K8vbQXbu/bpdvi30VG5au9DVOa8dtyUpSVI5DIIz2Ma0Td0M3VTJdMQtLaJjTjDAOc+Ry4fjoY1mZVr1ezrxosSrR+C35jaUvIPJtQChkA+/wcHV67K3RlOaPyBqyCJZNrKNBm/Wi1IQqaqrGO4VDl9vzSkg9YJKj+tO1UONSoiIsVa2mSk8W2hxQn3x85OdZyrUW9qPfNXm2zDrLAXLWsOx2VFDo5EjIxhQ/On0Dc6+P4TbdUsJ6U8gDLiUONhR9+ODj9aVspLYysDoHn1NksA4IlFoLU1i41vQmXJDLbXhuLfXhIJ76VjrAxrg711iA/9L058wzWHqvHdaQ0vmoNJJ5KJwMDsD50Eu7cHciox0xaZar1Pb49qbirdKfxy/rn9aA2tbt1u3zSajV6XV1uKmtLfkyGlnCQoZKlH00KulCa7MPjZHu3gCf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bad Call</div>
-                                                <div class="unlocked">4 Mar 2026</div>
+                                                <div>Day-or-Night Trader</div>
+                                                <div class="unlocked">5 Mar 2026</div>
                                             </div>
-                                            <div class="description">Use an Olympian's Greater Call against them in a Trial</div>
+                                            <div class="description">Trade 20 times with the Wretched Broker</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
