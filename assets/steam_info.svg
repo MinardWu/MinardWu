@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="408" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="393" class="">
     <defs>
         <style/>
     </defs>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Mar 2026
+                                        Last played on 30 Mar 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 61 achievements unlocked
+                                            19 / 61 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBQYD/8QALBAAAQMDAwMDAgcAAAAAAAAAAQIDBAUGEQASIRMxQQdRYRQiFSMyM0JSYv/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAb/xAAkEQEAAQIGAgIDAAAAAAAAAAABAgARAwQSITFBEyIUkWFxof/aAAwDAQACEQMRAD8Aa111+RHqAbVWp1Bp4n/hbS48VlbKSlsKC1FQJGSrbxwNurBy1rkGwt+oc0lwbkBURk7gBnjGPHOi6xGg3hQbqpEposJiyVN9UAq2uBCXEuJ+RkcD599JizvUuuW8/AplQaVLjsyNrkZbP5qUnAAR5ChknGPOPOopzIS9+H91pMtl8THwn44Eo8iRbiXEUaYj1NuCPbqJku86q9VFstqRAjIaSouOfoRyCeTxngYBPjUae1XaLcNGi1q55FTfkOpZlQOkHGglaVZ3qx9o9s4JI4BGthR0RolPZmRQatUpTW9uX0lJD21O1G9QBDfBxz/r511rcdxtNJQ1FCCmoR3HltjKVKO7cffvjk+40/j7H+tSuaVYSCzfqJ9bXsfb+LVTWnLqQu28SC27BRU0NhrpgLyWW+d5UBgDHGCdCSLJtqbeTdUkGQ09FkISwVAtNurHIbCj+4QRxt7AY5AwC4xkwarVXKfTZ8l+bODjEgtJ+lQlaUJL2QrK8JHfvxgYGSbO7qhNiIpqGKHJq8th9p1brMdJS2BwtSCpQAVt3ADP8u+jpE9uqXyTMS+E21AbIdHNKH1G9S6uqrtUpuI1ATHdUX0r+5ElCiRtWk8YxwR/YHntptyqyqbTLXnUtDYgypTAUQ5goCgRtxjBweO/cawV12/HuSvoqk60riSkjBQGmc5HfI6uMHuMg8k62FEchxIFOpUe2KxBgRHUvJdkobQ2yRlRWpXUz75OPPbGkwyeqWp5qrNyyzg4fjjZje+5bfnvffiv/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQL/xAAuEAABAwMDAwEGBwAAAAAAAAABAgMEBQYRAAchEhMxQRQWUXGR0SIkMjM0YYH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAIFBv/EAB8RAAIBBQEBAQEAAAAAAAAAAAECEQADBCExEkFRYf/aAAwDAQACEQMRAD8Avsu2qpMnS1+8tQgRCpKY0aChtCWkBIGDlJyc50sXXT12tB9sqm4FbZQslLaHQhXcVjOAEpz9NcTr+nM7wQaGnApylqiOtBIPUsjKXAfII4GPhpA3puCDc1406LT5ZkwozRaV2847pUQoDPk8JGRpK7cQKSOzHa0eFiZDXUS5AQrOgOfPnTFONgpbuJx2M9uDWZc8ZdSzGUqOEt8eetGSfkfGNUERRQY8dlcidU0y30RVGc/3OlKs+mMH6ZOoHXqPM28v2husOKSyv2d4kHjPCHUn+s9X+K1X7tuiF770S2Qh0zDKZklYA6E/rPSfXOOdFp4BDaI1RnYxd1a0fSMCeARHeAVGL8qApe8lRnLKvy8pKxjk/tj76W9vnGGb2oTs7+O3KQtw9JUABznA9MjOqHfO29fuTcKdNp0cJpUxxCkzFuIUnHQnKsA5I+HGi0/bKtWnf1JnU+M/V6bEKHnHW1NtqK8KCgEqUPHH30sbVwvMamrm3nYwxgnseigHfwcngO6Bv3clJuKPQn6HNRMQ0p9K1tghIP4OMkeePpzrMo1b95N8aXUmEENrkNpQn1CUNdOefkTpt3VoFaupujx6Pa8qHHiOOLeyuOjPX056QleM8HzrJtzbOo0O/KTUm0STR4r3fddldptbQCT5wshQ8ZI1N0uNcmNSKVx8jFt4fj1DBXABIPT/AD6dRX//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Street Fighting</div>
-                                                <div class="unlocked">29 Mar 2026</div>
-                                            </div>
-                                            <div class="description">Anything can be a weapon, so keep using your environment to your advantage. All is fair in such fights! (Ignored in training mode.)</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAApEAABBAECBQMFAQAAAAAAAAABAgMEBREABhITISIxQVFhBwhCcYEU/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQCBv/EACERAAICAQUBAAMAAAAAAAAAAAECAxEABCExQVESExSB/9oADAMBAAIRAxEAPwC5prZtpKuFqv7GsiRZPIjtRA22222ltB/JJz1J6/GNS7ct/aR92MUW2tz3ti8t1LTjinGikqP4own09T48+2qsWl7itLFLzTbEaDIVHU8VcxSsJSrsQcpQe7qrGfb3E5+hVMibdW+4sJfcZfLDCXFEFIUcqXnr3cJAH98aikBYhV77zotGyRxvLIAfkDahyeLOZNmXc6XuZ6h3buC/hzEuLbQ41LShAUn8VdvTODg5xqlqoH62bXyo15dWUd6Qlp2PKfDzKmlpIORw/o5zpE+ttU3X7jpdwrShrnSUsvoSo9wQcpXkYIJTkH9DrqgWMZdROqUxmwYz81pHNbXwE5CjhaBgK9MKAz7++kYKkq3WNW6yKksewcGxQqxzWJlxvmPtydvitfDipTsgrjAJwnKmEJPd4yCAcaAfbvdGPZT6R98NMzG+Ywo9FF1IAISfBPCc4+NOd7spE+03HZNifMTYR8x47biUx3F8scJVhXd1AxkY/ekuBszdELY66lO31mzVYiW1LEhsGKEpSONBCwSo4Ix7fzWGEgcN5eURPpJNM0QIBb5uyOa5387zp9wl0h6RW0ceQmQYaC5IWTlYcI4UhRHQHGTj50fqvqHBvXNqVCojyLEyWFFThSQOFJ70kE+eowcEZ0G3jsqxkbRh1O3qCy/1plGTLly3GQuQspIKiQ4euT0HoNb6LY8iqu6GxhxZ1cw2pt20YeW1yOJCDlaVcZOOL0+c/GlS/kJ9rBfR/qqhO6/Vbjn0170P5n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>A Lady's Blood in the Snow</div>
-                                                <div class="unlocked">29 Mar 2026</div>
+                                                <div>Furious Fists</div>
+                                                <div class="unlocked">30 Mar 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAAqEAABBAEEAAYBBQEAAAAAAAABAgMEBREABhIhExQiMUFRBxUjYYHBwv/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAIxEAAQMDBAIDAAAAAAAAAAAAAQIRIQADEgUxQWEiUSNx8P/aAAwDAQACEQMRAD8Av1XDkWVjbKenTo8aLL8tHjx1BptLaW0e2Bk9k/Okr8nyVbVrlLa3tbN2qkcmIS1oV4oyATgIykdnvPxqmUtkbByzQpCUeTlqjen5wlKsn+fVqFbt/Hm4927p3DcQ/KqSmYqO2y86Ur4oCcYyCMYI+fvUt9wjwDk13dNwVf8AnUEpSB6naJHPNMP4wkp3ZBCJ+87r9XHMriNSUt4SD0oenvrHsdN8uiepbKtkJvrmYw/KTGciTHw60tC0qBBBT/eortXZV7VblalgNtyKqyisvxw6Qv8AcUnBBAxxKVYPf3robdIyafvGLFn/AK0Fh1I8hIpupBNu+BaUClTwwj8CGrN2Qt43m8kLx4CbUeH13ksNE/5oCgua+5v9xIkpMB2nnFtMlDymg6j055HOD6hgg9dj71oPz5tW3PVRbem2T0mQX0rD7KGneSU+oLKs8cAD2z1pZ3RB3DZVaXoNE7BtlLRN4tBhaEvpASUOkqAcScBQV2QUp6600kgRx1UltKbiiVEDIAA5CGZ3HdHbrnV1BawrSMRNft7CNGW4VeIlltDnqKSOhgkDH3ps3OFFFZxSVET2PYew5dnU+23F3BVRQ/cUEu1sX3fNuoSmOlppxKeLaUZX0egpSwMk402V1zb2ENg3NDMp3UPIW6rzLLjSUJyonlyzx6wes961Bd3h+qG+gJxKSDjuchPphvH1Nf/Z" alt="" />
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="name">
+                                                <div>Scareless</div>
+                                                <div class="unlocked">30 Mar 2026</div>
+                                            </div>
+                                            <div class="description">Beat the game while being 50 years old or less.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+17 others...</div>
                                         </div>
                                     </div>
                                 </div>
