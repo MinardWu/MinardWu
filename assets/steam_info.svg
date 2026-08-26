@@ -102,9 +102,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAAMAAAAAAAAAAAAABQYDBAcCAAEI/8QAMRAAAQMDAwMBBwIHAAAAAAAAAQIDBAAFEQYSIRMxQSIHFDJRUmFxI0IVFzNygZHB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgEA/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAxEhBBIFMRNhFCJx/9oADAMBAAIRAxEAPwDF7xcZL1wLTO1IQkKyRU+mIsm83tVtkuo2FIOQMVXuKc3ZwEjBQO1E9GPJga1i7hwvAzQKyuerRh9LCcDQGoJU5bD0hlmAFEBSkdxR/wDl9b4mEPyg8rwlBIOa0J+SSoMx/UtXnwKnixGmUnICnD8Sjz/qqiUIBqLB2K9Zkd50d7ozvQy50T5z2pLnputocB3tuRj2UE/CPvX0w5Halx3I7gG1Qxg1kOpbamA+9HfTiOsn4ueKT5dXw7UTaNEpM64KCXEOtc9ht711AuM1i4MpfUhTLysLAHNcNx/4fMEdWVtOHLa/Aq10Qm7QdvJ3+aRzgfUbGCOyyKalty7uAKG5KAd3iqj8xti4xXmTucSvkioF299ENEma4QsqI4OM1VvJ3RuolPTDYyB5NE6gPmBa0EYAm722+MtQoxkKyXBguD9vHmpoWqkMyizcfSwT6JH7azrSl2TLssTqFK0pVhY8gUUmzLhGuyIsS0uzoTgGWkgFR/B8Vyzn2o/RBKfD8dTfQbbDiPUvUL8WWFNt+8QCAStHcD80F105HucRt+J+ohfBA7io9JOW5ya5H3OQpau8OSrcRXlwhsu6hhwLc8lt19wpdWo5Q0PqIoVnOuZSHGjHV8TxVrFqt/ZlmrGVWKe1H6wcbWkLA7lBP3opBKXpduUSFerx+Kt3fRlzcfuMhlxNwixiS5ISPTjPYZpf02V++xgVZAdI/FcH7JkyVdhbSgGJFMnJftiW85VuPFdKty7vaEiPzJR+36h8qpWK3v3ncltJQ0z6lOHtRSxvqbBSydrzSyAf+0ezOe0nfcD6Xnqt8p6JIBbJ9ISfBrd9CXeO+GSE9Oej+mpfINZ7JatN7KBc2OhJRyHkekE086HVFttiXDdcafW2orYkpHwE/V86yaUtYGUeFzvxQV9qYZ1N7OZ2trmLhHeQ3OA2l5hOxOBUML2dIbjtRtTXDousrJBQopW5/mrV39rtwLTdtsbDaH0jYXEoGD96VX7xJYDii+qVcXuVuKOUt5+xo60VtrPqZv8ALFFIrGMy1rq/R7Lbk6esGf1TtdBOTg+SazSPb3rRqC3FaT0pDnpQe+7HJo9Mnw7UXFNrEme6MqcVyE0sy5r711t8994LWw5uIHZI/FZsCAYk2u13fu+zHLSbEZ2z+6t7W1KUefnQPUljkQXVSojZGPiAHcfOvVoU7DhhDjyWX0qKkBXmmW3aogzWwzOUhDqeDu80axBYMT2dYHqJcWU3KGCQVjuPvVnetCSEurSPpBqzqu32ltozrfLQleclKfNCbW27JSHkrA/u5pQ0OH6zeQMRhgOFpkKYSStXBJ5NSiFcVOKdjMLWrv8Amo494mwtvQMb5epvNEjrO4MgGQ02pI79NAFNpWE1BsBnJlUwL6ptRVbE4x3KBmli+2uXAYddeb2lY5GO1PkLX1slI2LcVHc7YWqhWo5DcptwsvIkLWPSlNeelDud2o3P/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAwEAAwEBAAAAAAAAAAAABgcIBQACBAMB/8QAMxAAAQMDAgUCBQMDBQAAAAAAAQIDBAAFEQYSBxMhMUEIIhQyUWFxFUKBFyTBM1JisfH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMEAf/EAB8RAAICAgIDAQAAAAAAAAAAAAABAhEDIRJhEyIxQf/aAAwDAQACEQMRAD8AlxpkrUB+0+fpR7w84aXfWaXHo/8Aa2tnJcnuJy2MUP6ctC7veYVrY9rstwIBPirbulxtfDbhq0wxFTzXGeWzHAGX3ce6qSXHS+nERA/bAzNkx94d5Tim+YnscHGa91vsPxMeQt15LCWk7khX7/xWjJjuCVKckN8tbrinijyNxziu6FLS4hxRHs+VGP8AutcYKtkXkdg2qCrJABO2vi9EIRvCSo9sCiiSkvuhwgIUfIGBXoTb0SLW+pqO4p9AzvHy0OEaBZGea98N7xbdMM6gj4m2pwe99pPRo+c0DraxjAJBGc/Wrc4HTdP3fhkLIxHWY6Sr4qO8rcrJ7n8E1LvEvTKtL6vuNrVjaTzmx9EqPQVkirdMtZscGoLv9QdNy3GiY5lYCvBOKdvqgbWbXYJSAstNy142n5DjuaRmlb0q2W7nsuJEmKrmNN+Sc+KqyxyLLxB0O0zNSJECU2G3FpPuQ5j3YPg5p8lxldHFtUSzYWJM+9sIYRzn1q6JPXNfC7RnWpTynW9mFlJOOgIqlrT6fNJRnQ66/OUtJygtSCkgeOtETXB3RzaNpYkrHc7380/n6JrHojkYJSnwOtGukNYosVinWx2G078SkpC1IBI/mqJl8FtESkbXI74H/F7H+KHLv6d9OEb7NJejLPYvulYo80ZKmgWNxemL/wBOi1DWeo1R88oxklSf2jr4oc9S6EK4lukf6xit7j4AxT907pmz8N7BJLTqFFKSqRJJ7j/2pV1zel6m1JOurgUkKJaTu8pB6Glx+07GbpUYNv6np0/xTJ4MXifbdbW+DFdV8HNc5a2yfaPuB4NLO3grwgH3E9/rRtw+dVB4jabW8kpCZHUfbFWyK4MRakV2VrSVAOKwknpmuKccJBUpYH0zS54p8VrZoWQ2w7GXMkuncW21AFIPUE5rR4bcQLZru3OPQELYfa6rjrVlQ+9Y1RYNd6+nuUTnqAa4pbmCC6pSfGD2rK1FfImnrLJuVwWENMJ3qye4+lLbRnHKy6m1A1aBAfireXtbdWsEKNFgCvHnUlwk6mc0/vU1AYaS6dvTfnwfrSilja1tIyfGKZfEm1z9Q8T7mLTHXIU3HRuCevSl/fo7MdgJGRJCih1GflxWvDSj2Rnbl0ZumUofucZpT6IyFLxzHOoTRRdkuMXT4iFJbkyY+ChTQxu/FL2FIKVd+vlPmizS99VZ7tGnNoS9ylbtqxkfyK6vaIzWwn9QFtdvP6bqi3oW9CXGbYeWnqELSn3Z/mtL0oQJqb9c5iW1phlkJDhHtUc9qz7ZxHuFvmvqSxHftryipcZbYUOpycDsKYFp45WaMyG0abci4HUNbUA/wKzPFJD80bHqRt8+foTNvQtzlKUp8I/2/ep94J2GRctbQZ+xTdvgL5sl49kDBp4TOPVpU043+gyXgoYKCoEH80vdXcSpl+iuQ7ZBj2m2uDDjTbQQ4ofkULHKX4c5pHa0a4nWvUt6uERSErdWplJWM7kgnBoEvstcqU/IeICnFFayO3Wv1bqUtlIUMAd/NZk+QD2PXHY+a1qKhEmm5M//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Mark of the Ninja</div>
+                                <div class="name">Hollow Knight</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Aug 2026
+                                        Last played on 25 Aug 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 38 achievements unlocked
+                                            3 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcBAgj/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREABiESMQcTFEFhCFGBFRYXMnH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEEEiEiMf/aAAwDAQACEQMRAD8Ap+ge8d5S0W8bPtO3KsdZcSplq3PEEZJ/qPdyFOM8DI4OnmoJ9QljuAv1FeqeCZ7e9OsEsycCGUMegk+xORg61bWKromBQoZ8aXlFCIqrnCgAZOT+TrbQLYG7U/ji33bdVdFTcvD6iofBnCsVDfLHHt3xnTG03Oiu9virrZUx1VJLnoljOQcHB/PxpwwMRkKnIO8Tf3bRCnr9ozytGR5VVTpCsxUc9MiKf9wcfYHUktNj3ze7nLNc46yQur+pqrj1xU6RlSCCGxkAcjA4wMY7jpjQ7xIakSKxveHf9FNwWKtj6iqOHVgnmfdA/TkdjnnU3TfJMrVbnqBJBN4cbuvotpilpJ7elCho5pJeiGOIrwgTHUrnOSffvnSnwlsG8dqXmW2VFD5VnncSSyOyvHH0ryY2DZLNwO3z7asygBQFAAAwAO2NZ0CpQewg3IZl6n5P/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGCP/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQFBhEHEiEAEzEUQVFhFSIjMnH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECERIhMQNR/9oADAMBAAIRAxEAPwAmsigWRdVFplLk1Oo0W5g673nvRKlsyUk5QBsOUbQD7ecknxhIomnmnltV2EzOrUmoV3uBuPDmttoYU+o4bLrYJWlAUUkpUQfr26yluNO2Tp1Hl09pKLguRtQM9TmwwYfwg+yl4yVewKQOT1v7c00pUe3mmpcMS6i5QZVZckkqSEqUUhhIHnjaTng5JP8AnQopK2Bv4Ta5p7p7cdemR41afp9whfalRIKG1sCQnAcUy2ohSkFQUQlJJ58e3Rxe9u2RadHqtMZqdRrdyqW16dz0SojUUA5Xu3nK8pOMY84weortQafSB6CGkr5ynfuJP2VeetrW2pN8abyZNUiOpr9ttjZNc3b5cQElTbm7kqQDlKvcBQ8+VPzpEjKymxKtd7TSzJl7CrydzciPHYpa0JRhooR/KpXIXgJOBxg9dVWTMolyWlBn0pttyFIiIjFK8KWlCRjtL+xkgj7++uCrRuKMqjPWzXnS1SH3FPsyggrVDkbQAvA5KCUpCgOccjngo+nWtVV0+prtCcjQajDjLWpotrGFFXwtP9k5IOfOMj4xm1nHQuMbtcbdYt2zfytnxo1KqDL6BiHAbUt/cdu3O0lOPOR8dAzVQqT1o6g1iqVBEurLjx25BcXuAS4pTW3KeO5hRO0cADnnqndWrE7VOhSaFL9PSZaSmRGDb5QxJCR+7bpV4OP3SfH6kc5HRhdlxRmqG1bFBd7tKacS/IlbCgzHwDlWDyG0lRCQeccnHgJPGO+kq2f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fated</div>
-                                                <div class="unlocked">24 Jun 2017</div>
+                                                <div>Test of Resolve</div>
+                                                <div class="unlocked">25 Aug 2026</div>
                                             </div>
-                                            <div class="description">Determine your fate.</div>
+                                            <div class="description">Defeat Hornet in Greenpath</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUD/8QALxAAAgICAQIGAQALAQAAAAAAAQIDBAUREgAhBgcTIjFBFBUjMjVCUWFxdZGxs//EABcBAQEBAQAAAAAAAAAAAAAAAAAFAQL/xAAaEQEBAQADAQAAAAAAAAAAAAACAQADETES/9oADAMBAAIRAxEAPwC/4/qQ0sV4hlnFiFLFSaSC1Bv2yGMh4pNA+1iAw2NbLdwddZmFztinFDds3sYvDGxV66WI3jkZFTmTw5duTdlJ1y4b++tjzSrWLVJYVe9+NPXkh9OtIyiWQsp4Px+mRZBs7Hb/AGoqdPJxQY+XJwrNibcDSYu27RkJKxB/WyONg8YyBv40AO3VVXpaCDEM5PCeVxOfmxl61kBayUsSTQwSlVWuzD9lEB1z1vv7m19jrp5XfuDIf5e9/wCx6TTVcvkPUbAwojLUefJ3FaLgE7Sx8ZFGxIOP1ojWvjpkeT9OSvXVoDeFWSF55UnkZkDSOrRkcvligZiQP4hvoVVcZhPvusecWa/RtKlFI3pV/dakmAJPsIUIAD25cyN/2H30A4/JWYYKEUcctLFylfxa8td45JHkr8JJouxDD2uoAHYyBumb5mYHI5SvSuYapSv26nqI1O4SIpo3XR+x3BAI2f8AnS0yNDxbkMLh8LH4VyU0OOVF/JslVdF1plQcuJ+SA578QAfjZxWy7rjhp0K2QtGvHThhms0o4KsdyhHC8th4lQyKzDQ0qFgu+/IEDvrZMfJfPLfWarWPq1Gh9UOylTGyFU9PW/jiVP8ATeuhbBUfFPh5slWh8KZWGndQwpZgZJbMcfHXEgNwZv5MfjuQO+ujfyo8N5XFh7ubo08bIKsdSCrVYn2r3Mj9yOZ0u+/10FveckPzv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBgP/xAAqEAABBAIBBAICAQUBAAAAAAABAgMEBQYRIQAHEjETQRRRYQgWMjNxof/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIxERJBIf/aAAwDAQACEQMRAD8AU2EUGEZVS1lXJs7GlyYOu/M9+EqWzJSTtAHgdo8QD9e9kn1pkUnbzt5jV7CYnXUmwvfkDceHNbbQwp9R02p1sErSgKKSUqIPHr66DdvKKZTYZERRmGxleUtqSzLkyfhVHjEgBpk6/wBrn+RP0nX30fruwmQV6rtc6LHsH40VK69DEjwakPqPPkTpQ8Bs642dc9dAAfWwr5c7zt729yO/mR410/X5CF/FKiQUNrYEhOg4pltRClIKgohKSTz6+ulxm+O4RidPa1jNnY3eSqW1+O5+EqI1FAO1+Xmdr2k61r3rR6Zq/wCnzILBNWEKiwH1QvOep90uITICyAE62SVJ0o64B3+x1n+4FDY2uL21dkbCTleHoQPzkuFZmQyPLxWTySlJ8kq+wFD2OSDpgvsN/uOypMd7Z5HFVHW/FTJbaToqSPiUhvxWP2UjnX7BHVedssifyzB6q8ltMMvTEKWptkkpRpRGtnn66gvEcjjKpnsZvnS1UPuKfZlBBWqHIKQAvQ5KCUpCgOdcjng72r74Zbi8SFTVrlSmHWxxFShtoPNu6JPyBQOySCPR1/G99R4zxON101q2U+LXR/nnymIzA3tx5wIHon2f+f8AnUiZ1dM2Nj3auqWxbnQSzEZQ+5wlQc20Uo170FK1+wN9AMv7tT+4WLpocijQ/wA9Mxt+JNbUGG0ewoOhRI14k6V/HWIyzIozVG1jNC78tW04mRIlFBQqZIAO1aPIbSVEJB51ydehA6E3f//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Escape</div>
-                                                <div class="unlocked">24 Jun 2017</div>
+                                                <div>Falsehood</div>
+                                                <div class="unlocked">23 Aug 2026</div>
                                             </div>
-                                            <div class="description">Escape from the Stronghold.</div>
+                                            <div class="description">Defeat the False Knight</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+1 other...</div>
                                         </div>
                                     </div>
                                 </div>
