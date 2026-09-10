@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="386" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
     <defs>
         <style/>
     </defs>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        32 hours played
+                                        34 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 9 Sept 2026
+                                        Last played on 10 Sept 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            43 / 63 achievements unlocked
+                                            46 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwT/xAAsEAACAQMCBQIFBQAAAAAAAAABAgMEBREGEgATISIxBxQII0FRkTJSYXFy/8QAFwEBAAMAAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAABMRH/2gAMAwEAAhEDEQA/AJixw2OisFvmuNFZKaGSCNBDW0yc5JDHklnOMkg7wMk4KE7c7TqQWfTF9kjMNrtroo5C10UGyDn7SwTtPzGwAzYUjbu8+ODzWc63FdP11OZGo5aBVUkEBZFdhIn23A4z9wVP1HF9qmyPSfD/AKRrIlOySvmnlI+jPkKfwnGkiHaazaZsDt7i2W0BkEElfJAJIPcbAzR9x+W3VmXKgY2+PHGdd4LDXWOvmoKKx1UMcLoaeip050knLyNrjOCApfGQThiN23bx7tH2Nqz0C1lVTqdkdZDPCT++PAY/h8cQWhalbZNfrhUtIlFBb2EjAEguXQRp/onOP6J8A8OBHptDQXvTVmsttro44UgSsinqJN6xljufLDHQI57QD1wcjPcxWO2WSk0JR6M1I71FM8q0kTSxctm35eNuhOw5yBk5zgHBOOAP0o1JQ1NijEMlqguVHTRwimmqPbu7RFmWTe/a6klTjyrAnGOGC+63sktHStR3KmnuW9V5qyIDzCobKISd26QntIIyB5wOK6KC92uyT6FrdF6cdoYFkNHKYo+Y6FcSSN1I3t4Bwc5JA6jHA3NoemsOnL5ZblXxyxT0z1ktRTymNX290eCQehRf0kDJz1OO1FsOubItPVPcbjBDcS5VpnkTcH2lsugI2lXC5UAdf5J4IPVfU1DT6dkFQ9qnutdTSRNTw1HuHR5SrPIGQ7UUEE48sxH0HVg//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABggDBwIEBf/EACoQAAIBAwMDBQABBQAAAAAAAAECAwQFEQYSIQAHMRMUIkFRFWFigZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAERMRIhMv/aAAwDAQACEQMRAD8ADaaLR0fbi2VFVbbVV3iqt3pwwxo8UssqOFbLqGyx3jnAOUIB/Mbbphqy80cNF28IWkMIuSTLKpDFssAGkIA24HIJxk4H1FoyjrNQ0mmLZZYYTWW+D12qYoWeVJBLKyoT4AAYHHHJ5Jxw0K0T+1nqBX1TyFQ7yh8CRgMEAAYXgeBgjI60w38lC3ftoaW5X6UaRtddb4lkelko6hzzkMBt9Rd4UEqcAEcYzjngtFoybtzcailt1opbvTW1hLE6vNIkkjlEIdgMMMZz8iCyjP60HsYqWmFLb19tGIykQ9IgRk+cLnyfOCelW11NTWSfWNkNFQ0olg2QyLuZmkV4twVyfDBGbBz8s4x0tInyDjsxqOyaS01Qz3NoIv5KBWJjyz71eZQXXHghQNw8EcgZ6uez3+gvlu93a5DKssxVUb44ZcEkj6BGP9j/AAtdNPo6XtvbaasuNpprtT27dHIjPNJHJI4ZwUBA3AL4JJy5IH7taQ1jbNG1sVbbbxR3ONqXbVUjGRC758RsYwPpSAf6g56RMsT7GgqYvdxyRB5IVOCXRtjBv7W+sf8ADz0vPfPdXRXilrVtu2w0G2mXkVDs7Q5kYeOFbGc4y32fEtz7spdak1UN+p7FElIyw0yl5XMhYY9RvSZfrOBk8AfZ6HblcdJ1Gg7tm7Wyvvtdb3knqJ5HilllRy6DaxOWOcY+JyqnH4k0iU0//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Sealed Siblings</div>
-                                                <div class="unlocked">8 Sept 2026</div>
+                                                <div>Blessed</div>
+                                                <div class="unlocked">9 Sept 2026</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Acquire all Charms and receive Salubra's blessing</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwP/xAApEAACAgICAAYBBAMAAAAAAAABAgMEBREGEgAHEyEiMRQVQVFxFyNh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEhETH/2gAMAwEAAhEDEQA/AM74lE+b4vRxvH+H1ruQlWGNrFmp3ijPqFe5kUdgWKt7HQ0G3vqvhZ/iDPU6U+T5hi8RjcfVJUpjFkmlk99BiqByV/jRU+/hh5GZo8L8loL92r6Nu3ka1SH1Pp4pXXpJ/WnkP9g+LzzI5zet5zJ4mhLLVq43cxIhA/Iki7fEs5BK9zEfgpHxYE+/jSdtRlfEcNxe8UqcIv4G7faUtPVuQzx2HjA31iD+7uT+wYBQN6Y7IDeZvFaEsV3P8dnlkjhsyQXa80vqSxOrBWY7JOuxA9/sEMNe6rI8y7GNt8lnqSUWxmWjRJqmRSRR+WSA8ckp0CGdSNsSSGGyfvw99LMWuNxclnVqubyGNsU8jGUDJcmhQGCwRoqXKSfRIDMpH2dG3cFHg4c5nPKKHEM0M0NmuJsc3UpN+TWl2K59/kGiclDoe5A/jwVs8y5DBmcljquUkjqZKRrNSeVttEjkuB2I2FOyGU+wOzoHe2PEsjHU8tcUP1NoYaaS2LUkLBx19N/9DjYPzLqNbU/H4netGed8o47m/wATJXaMVi8GKLNjrnpShASV7h4z3Oydsyg/9b78L4DM2Wyefy8OL5XItiSUejDZkjUyQlgShV11tNkHWyNE68abi0uY7ivEeKXZmS5+Jey92tISxWvKnSOAj9uy9n0frYP34m0sZhMZVxOT4TjsbksosCyxW8lkC8NOVx2YLCqDt1YnXY6B38fHXMZOqLVzPcj/AEeHPDHS1ZLFa0NWHaP3lKFVZzsAdQCB9bOx1kg//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwIGAwQF/8QAKBAAAQQBBAEEAgMBAAAAAAAAAQIDBAURAAYSITETFEFRMnEVFoFS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMSH/2gAMAwEAAhEDEQA/AIMnbEzYlW2mv289fP07b7LMthDannEApxkYyo4P/PPjjzk6KIFTK3pdV9XX1dZDkSHQ2j2rHpDvyVEk9AZP+az7an0NnJgt7lYsTEiwW4rfsVoCytKyrJCusHkR9jo6VaPclfXT58mk25W0rDMX0yJ6nfWkN4wptDnhDihk/aj8nGsDfcCCxqJWyrywrbCsrZciO6W1iUz6qevBSQRgEYP+6XIS9sxNlTUP1u3mb9qoemOsxY6HFsqKOvOcKGR1lXDn33g6nebkr7CfBkXe3K26jvRfTSICnfWYbxhKFueFuJGDnyk/Izon3DY0VTYy/wCssWQiSYD0Rz3y0FfJfyAnrAGB9nvUGabu1J9rtxVW1VrrFLlRUzm3JsdglkqKgeLjg67R96uNhulytfsf5Pcqr+RbQVMyfaYWhlY7bSStPFYGT+GOOSQdddmNtuLsOqe95t5u+YqG2GXJshCy04sFWSn4UMkj8uHIHzkaELdhdTwzYV0tKjgGHJD2P3jxodFRdFiBup2yfrv43cyqGRUwUsRfd4Qh5Z/NIKE8UA4H555YGTql7nnWu55VjGs1VaVxork912FHYBdKE5HJxod5J+/3qsVTK7YrAn18QJ8mZJDIP6z505Qom25Oy5zjs7b7l+7UvRHXocpCC8oI668FR67wnmUEn4BVScfT/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Void</div>
-                                                <div class="unlocked">8 Sept 2026</div>
+                                                <div>True Hunter</div>
+                                                <div class="unlocked">9 Sept 2026</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Receive the Hunter's Mark</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+41 others...</div>
+                                            <div class="description ellipsis">+44 others...</div>
                                         </div>
                                     </div>
                                 </div>
